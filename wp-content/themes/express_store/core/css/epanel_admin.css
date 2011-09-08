@@ -1,0 +1,78 @@
+
+/****************menu manager****************/
+
+.divider-menu {
+	display: block;
+	height: 10px;
+	clear: both;
+}
+
+.epanel_mega_menu_options {
+	display: none;
+	margin-top: 15px;
+}
+
+.epanel_mega_menu_options .epanel_checkbox input{
+display: block;
+float: left;
+margin-bottom: 11px;
+margin-right: 7px;
+
+}
+
+
+
+.epanel_mega_menu, .epanel_mega_label, .item-type-epanel, .item-type-megafied, .epanel_mega_active.menu-item-depth-2 .description-title, .epanel_mega_active.menu-item-depth-3 .description-title{
+display:none;
+}
+
+.menu-item-depth-0 .epanel_mega_menu_d0, .epanel_mega_active.menu-item-depth-1 .epanel_mega_menu_d1, .epanel_mega_active.menu-item-depth-2 .epanel_mega_menu_d2, .epanel_mega_active.menu-item-depth-3 .epanel_mega_menu_d2, .epanel_mega_active.menu-item-depth-4 .epanel_mega_menu_d2, .epanel_mega_active.menu-item-depth-5 .epanel_mega_menu_d2, .epanel_mega_active.menu-item-depth-6 .epanel_mega_menu_d2, .epanel_mega_active.menu-item-depth-7 .epanel_mega_menu_d2, .epanel_mega_active.menu-item-depth-8 .epanel_mega_menu_d2{
+display:block;
+}
+
+/*depth 0 Specials*/
+.epanel_mega_active.menu-item-depth-0 .item-type-megafied{
+display:inline;
+font-size: 11px;
+font-style: italic;
+padding: 10px;
+padding-right: 40px;
+background: transparent url(../images/admin/activated.png) no-repeat 155px 8px;
+}
+
+
+/*depth1 specials*/
+.epanel_mega_active.menu-item-depth-1 .field-description, .epanel_mega_active.menu-item-depth-1 .link-to-original, .epanel_mega_active.menu-item-depth-1 .description-title, .epanel_mega_active.menu-item-depth-1 .epanel_default_label, .epanel_mega_active.menu-item-depth-1 .field-url, .epanel_mega_active.menu-item-depth-1 .item-type-default{
+display:none;
+}
+
+.epanel_mega_active.menu-item-depth-1 .epanel_mega_label{
+display:inline;
+}
+
+.epanel_mega_active.menu-item-depth-1 .item-type-epanel{
+display:block;
+color: #333333;
+}
+
+.epanel_mega_active.menu-item-depth-2 .field-description, .epanel_mega_active.menu-item-depth-3 .field-description, .epanel_mega_active.menu-item-depth-4 .field-description, .epanel_mega_active.menu-item-depth-5 .field-description, .epanel_mega_active.menu-item-depth-6 .field-description, .epanel_mega_active.menu-item-depth-7 .field-description, .epanel_mega_active.menu-item-depth-8 .field-description{
+display:block;
+}
+
+.epanel_long_desc{
+overflow: hidden;
+display: block;
+}
+
+.epanel_mega_active.menu-item-depth-1 .epanel_label_desc_on_active{
+height:auto;
+width:auto;
+float:none;
+}
+
+.epanel_mega_active .epanel_label_desc_on_active .epanel_supersmall{
+font-size: 11px;
+color:#888;
+display:inline-block;
+padding:0 0 3px 0;
+}

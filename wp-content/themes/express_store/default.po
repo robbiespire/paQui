@@ -1,0 +1,4823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-10 17:57+0100\n"
+"PO-Revision-Date: 2011-06-10 18:01+0100\n"
+"Last-Translator: Alessandro Tesoro <web.enovastudio@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: category.php:45
+#: single.php:41
+#: template_blog.php:55
+msgid "Posted By : "
+msgstr ""
+
+#: category.php:48
+#: single.php:43
+#: template_blog.php:58
+msgid "On : "
+msgstr ""
+
+#: category.php:51
+#: comments.php:47
+#: single.php:45
+#: template_blog.php:61
+msgid " Leave a comment"
+msgstr ""
+
+#: category.php:51
+#: comments.php:47
+#: single.php:45
+#: template_blog.php:61
+msgid " One comment"
+msgstr ""
+
+#: category.php:51
+#: comments.php:47
+#: single.php:45
+#: template_blog.php:61
+#, php-format
+msgid " % comments"
+msgstr ""
+
+#: category.php:54
+#: template_blog.php:64
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:27
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:33
+msgid "(edit)"
+msgstr ""
+
+#: comments.php:75
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:75
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:93
+msgid "Name *"
+msgstr ""
+
+#: comments.php:95
+msgid "Email *"
+msgstr ""
+
+#: comments.php:97
+msgid "Website"
+msgstr ""
+
+#: comments.php:103
+msgid "Submit Comment"
+msgstr ""
+
+#: template_homepage.php:222
+#: template_homepage.php:257
+#: template_homepage.php:314
+#: template_homepage.php:349
+#: template_homepage_store.php:222
+#: template_homepage_store.php:257
+#: template_homepage_store.php:420
+#: template_homepage_store.php:455
+msgid "Latest Featured Products"
+msgstr ""
+
+#: template_homepage_store.php:386
+msgid "Read Details"
+msgstr ""
+
+#: core/components/section.bxslider.php:10
+msgid "Bxslider"
+msgstr ""
+
+#: core/components/section.page.php:10
+msgid "Page"
+msgstr ""
+
+#: core/components/section.scroller.php:14
+msgid "EPANEL_WP Scroller"
+msgstr ""
+
+#: core/components/section.scroller.php:38
+msgid "Home Scroller"
+msgstr ""
+
+#: core/components/section.scroller.php:39
+msgid "Item"
+msgstr ""
+
+#: core/components/section.slides.php:14
+msgid "EPANEL_WP Slides"
+msgstr ""
+
+#: core/components/section.slides.php:38
+msgid "Home Slider"
+msgstr ""
+
+#: core/components/section.slides.php:39
+msgid "Slide"
+msgstr ""
+
+#: core/components/shortcode-manager/shortcodes/product/product-window.php:85
+msgid "Through the use of this panel you can add one or more product(s) from your catalog, anywhere in any post or page."
+msgstr ""
+
+#: core/components/shortcode-manager/shortcodes/product/product-window.php:89
+msgid "Select Category"
+msgstr ""
+
+#: core/components/shortcode-manager/shortcodes/product/product-window.php:93
+msgid "Product(s)"
+msgstr ""
+
+#: core/ecart/Ecart.php:211
+msgid "The Cart session handlers could not be initialized because the session was started by the active theme or an active plugin before Ecart could establish its session handlers. The cart will not function."
+msgstr ""
+
+#: core/ecart/Ecart.php:433
+#, php-format
+msgid "Your %s is required."
+msgstr ""
+
+#: core/ecart/Ecart.php:434
+msgid "The e-mail address you provided does not appear to be a valid address."
+msgstr ""
+
+#: core/ecart/Ecart.php:435
+#, php-format
+msgid "The %s you entered is too short. It must be at least %d characters long."
+msgstr ""
+
+#: core/ecart/Ecart.php:436
+msgid "The passwords you entered do not match. They must match in order to confirm you are correctly entering the password you want to use."
+msgstr ""
+
+#: core/ecart/Ecart.php:437
+#, php-format
+msgid "%s must be checked before you can proceed."
+msgstr ""
+
+#: core/ecart/Ecart.php:446
+msgid "You did not enter a login."
+msgstr ""
+
+#: core/ecart/Ecart.php:447
+msgid "You did not enter a password to login with."
+msgstr ""
+
+#: core/ecart/Ecart.php:453
+msgid "There are unsaved changes that will be lost if you continue."
+msgstr ""
+
+#: core/ecart/Ecart.php:459
+msgid "January"
+msgstr ""
+
+#: core/ecart/Ecart.php:460
+msgid "February"
+msgstr ""
+
+#: core/ecart/Ecart.php:461
+msgid "March"
+msgstr ""
+
+#: core/ecart/Ecart.php:462
+msgid "April"
+msgstr ""
+
+#: core/ecart/Ecart.php:463
+msgid "May"
+msgstr ""
+
+#: core/ecart/Ecart.php:464
+msgid "June"
+msgstr ""
+
+#: core/ecart/Ecart.php:465
+msgid "July"
+msgstr ""
+
+#: core/ecart/Ecart.php:466
+msgid "August"
+msgstr ""
+
+#: core/ecart/Ecart.php:467
+msgid "September"
+msgstr ""
+
+#: core/ecart/Ecart.php:468
+msgid "October"
+msgstr ""
+
+#: core/ecart/Ecart.php:469
+msgid "November"
+msgstr ""
+
+#: core/ecart/Ecart.php:470
+msgid "December"
+msgstr ""
+
+#: core/ecart/Ecart.php:473
+msgid "Sun"
+msgstr ""
+
+#: core/ecart/Ecart.php:474
+msgid "Mon"
+msgstr ""
+
+#: core/ecart/Ecart.php:475
+msgid "Tue"
+msgstr ""
+
+#: core/ecart/Ecart.php:476
+msgid "Wed"
+msgstr ""
+
+#: core/ecart/Ecart.php:477
+msgid "Thu"
+msgstr ""
+
+#: core/ecart/Ecart.php:478
+msgid "Fri"
+msgstr ""
+
+#: core/ecart/Ecart.php:479
+msgid "Sat"
+msgstr ""
+
+#: core/ecart/core/DB.php:193
+#, php-format
+msgid "Query failed: %s - DB Query: %s"
+msgstr ""
+
+#: core/ecart/core/functions.php:29
+msgid "Monday"
+msgstr ""
+
+#: core/ecart/core/functions.php:29
+msgid "Tuesday"
+msgstr ""
+
+#: core/ecart/core/functions.php:30
+msgid "Wednesday"
+msgstr ""
+
+#: core/ecart/core/functions.php:30
+msgid "Thursday"
+msgstr ""
+
+#: core/ecart/core/functions.php:31
+msgid "Friday"
+msgstr ""
+
+#: core/ecart/core/functions.php:31
+msgid "Saturday"
+msgstr ""
+
+#: core/ecart/core/functions.php:32
+msgid "Sunday"
+msgstr ""
+
+#: core/ecart/core/functions.php:39
+msgid "Jan"
+msgstr ""
+
+#: core/ecart/core/functions.php:39
+msgid "Feb"
+msgstr ""
+
+#: core/ecart/core/functions.php:40
+msgid "Mar"
+msgstr ""
+
+#: core/ecart/core/functions.php:40
+msgid "Apr"
+msgstr ""
+
+#: core/ecart/core/functions.php:41
+msgid "Jun"
+msgstr ""
+
+#: core/ecart/core/functions.php:42
+msgid "Jul"
+msgstr ""
+
+#: core/ecart/core/functions.php:42
+msgid "Aug"
+msgstr ""
+
+#: core/ecart/core/functions.php:43
+msgid "Sep"
+msgstr ""
+
+#: core/ecart/core/functions.php:43
+msgid "Oct"
+msgstr ""
+
+#: core/ecart/core/functions.php:44
+msgid "Nov"
+msgstr ""
+
+#: core/ecart/core/functions.php:44
+msgid "Dec"
+msgstr ""
+
+#: core/ecart/core/functions.php:1202
+msgid "bytes"
+msgstr ""
+
+#: core/ecart/core/functions.php:1470
+msgid "Could not open the email template because the file does not exist or is not readable."
+msgstr ""
+
+#: core/ecart/core/functions.php:1650
+msgid "Ecart requires PHP version 5.0+.  You are using PHP version "
+msgstr ""
+
+#: core/ecart/core/functions.php:1653
+msgid "Ecart will not work with PHP version 5.1.3 because of a critical bug in complex POST data structures.  Please upgrade PHP to version 5.1.4 or higher."
+msgstr ""
+
+#: core/ecart/core/functions.php:1657
+msgid "Ecart requires WordPress version 2.8+.  You are using WordPress version "
+msgstr ""
+
+#: core/ecart/core/functions.php:1663
+msgid "Ecart requires the cURL library for processing transactions securely. Your web hosting environment does not currently have cURL installed (or built into PHP)."
+msgstr ""
+
+#: core/ecart/core/functions.php:1666
+msgid "Ecart requires the GD image library with JPEG support for generating gallery and thumbnail images.  Your web hosting environment does not currently have GD installed (or built into PHP)."
+msgstr ""
+
+#: core/ecart/core/functions.php:1669
+msgid "Ecart requires JPEG support in the GD image library.  Your web hosting environment does not currently have a version of GD installed that has JPEG support."
+msgstr ""
+
+#: core/ecart/core/functions.php:1677
+msgid "Sorry! You will not be able to use Ecart.  For more information, see the <a href=\"http://docs.ecartlugin.net/Installation\" target=\"_blank\">online Ecart documentation.</a>"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:190
+msgid "Show New Customers"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:191
+msgid "Today"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:192
+msgid "This Week"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:193
+msgid "This Month"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:194
+msgid "This Quarter"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:195
+msgid "This Year"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:196
+msgid "Yesterday"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:197
+msgid "Last Week"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:198
+#: core/ecart/core/flow/Admin.php:453
+msgid "Last 30 Days"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:199
+msgid "Last 3 Months"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:200
+msgid "Last Month"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:201
+msgid "Last Quarter"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:202
+msgid "Last Year"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:203
+msgid "Last Export"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:204
+msgid "Custom Dates"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:208
+msgid "Tab-separated.txt"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:209
+msgid "Comma-separated.csv"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:210
+msgid "Microsoft&reg; Excel.xls"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:237
+#: core/ecart/core/flow/Admin.php:506
+#: core/ecart/core/flow/Categorize.php:223
+msgid "Name"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:238
+msgid "Login"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:239
+msgid "Email"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:240
+msgid "Location"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:241
+#: core/ecart/core/flow/Admin.php:455
+#: core/ecart/core/flow/Admin.php:456
+msgid "Orders"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:242
+msgid "Joined"
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:273
+#: core/ecart/core/flow/Categorize.php:144
+#: core/ecart/core/flow/Categorize.php:269
+#: core/ecart/core/flow/Categorize.php:329
+#: core/ecart/core/flow/Categorize.php:469
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: core/ecart/core/flow/Account.php:281
+msgid "The requested customer record does not exist."
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:99
+msgid "Orders History"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:100
+msgid "Registered Customers"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:101
+msgid "Products Management"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:102
+msgid "Categories Setup"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:103
+msgid "Coupons Setup"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:104
+msgid "Main Settings"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:105
+msgid "Checkout Settings"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:106
+msgid "Payments Setup"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:107
+#: core/ecart/core/flow/Admin.php:113
+msgid "Shipping Management"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:108
+#: core/ecart/core/flow/Admin.php:114
+msgid "Taxes Configuration"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:109
+msgid "Catalog Layout"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:110
+#: core/ecart/core/flow/Admin.php:116
+msgid "Storage Settings"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:111
+msgid "Checkout Setup"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:112
+msgid "Payments Settings"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:115
+msgid "Catalog Layout Settings"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:377
+msgid "New Product"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:393
+msgid "Shopping Cart Orders"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:453
+msgid "Lifetime"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:458
+#: core/ecart/core/flow/Admin.php:459
+msgid "Sales"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:461
+#: core/ecart/core/flow/Admin.php:462
+msgid "Average Order"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:506
+msgid "Date"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:506
+msgid "Items"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:506
+msgid "Total"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:506
+msgid "Status"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:521
+msgid "No orders, yet."
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:561
+msgid "Recent Bestsellers"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:563
+#: core/ecart/core/flow/Admin.php:573
+msgid "Nothing has been sold, yet."
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:571
+msgid "Lifetime Bestsellers"
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:664
+msgid "Insert from Ecart..."
+msgstr ""
+
+#: core/ecart/core/flow/Admin.php:665
+msgid "Insert a product or category from Ecart..."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:86
+msgid "Order"
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:365
+msgid "The file could not be saved because the upload was not found on the server."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:368
+msgid "The file could not be saved because the web server does not have permission to read the upload."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:371
+msgid "The file could not be saved because the uploaded file is empty."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:378
+msgid "The file format could not be detected."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:449
+msgid "No file import URL was provided."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:480
+msgid "A temporary file could not be created for importing the file."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:481
+#, php-format
+msgid "A temporary file at %s could not be opened for importing."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:483
+#, php-format
+msgid "The file at %s could not be opened for importing."
+msgstr ""
+
+#: core/ecart/core/flow/Ajax.php:486
+msgid "The connection timed out while trying to get information about the target file."
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:118
+msgid "has been saved."
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:224
+msgid "Products"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:225
+msgid "Templates"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:226
+msgid "Menus"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:252
+msgid "Category"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:278
+msgid "Shipped"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:279
+msgid "Virtual"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:280
+msgid "Download"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:281
+msgid "Donation"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:282
+msgid "N/A"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:292
+msgid "Price ranges disabled"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:293
+msgid "Build price ranges automatically"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:294
+msgid "Use custom price ranges"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:299
+msgid "Parent Category"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:305
+msgid "Continue Editing"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:306
+msgid "Categories Manager"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:307
+msgid "New Category"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:308
+msgid "Edit Next"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:309
+msgid "Edit Previous"
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:390
+msgid "category saved."
+msgstr ""
+
+#: core/ecart/core/flow/Categorize.php:454
+msgid "Product"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:281
+msgid "Merchant"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:281
+msgid "Customer Service Rep"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:328
+msgid "Pending"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:328
+msgid "Completed"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:553
+msgid "You do not have sufficient permissions to update plugins for this blog."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:558
+msgid "Upgrade Ecart"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:572
+#: core/ecart/core/flow/Install.php:587
+#: core/ecart/core/flow/Install.php:601
+msgid "Upgrade Ecart Add-on"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:666
+msgid "Invalid URL Provided"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:672
+#: core/ecart/core/flow/Install.php:676
+msgid "Could not create Temporary file"
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:757
+msgid "Ecart is at the latest version."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:758
+msgid "Ecart upgrade package not available."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:759
+#: core/ecart/core/flow/Install.php:858
+#, php-format
+msgid "Downloading update from <span class=\"code\">%s</span>."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:760
+#: core/ecart/core/flow/Install.php:859
+msgid "Unpacking the update."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:761
+msgid "Deactivating Ecart."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:762
+msgid "Removing the old version of Ecart."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:763
+msgid "Could not remove the old Ecart."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:764
+msgid "Ecart upgrade Failed."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:765
+msgid "Ecart upgraded successfully."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:829
+msgid "Finishing Ecart upgrade..."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:856
+msgid "The add-on is at the latest version."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:857
+msgid "Upgrade package not available."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:860
+msgid "Deactivating the add-on."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:861
+msgid "Removing the old version of the add-on."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:862
+msgid "Could not remove the old add-on."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:863
+msgid "Add-on upgrade Failed."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:864
+msgid "Add-on upgraded successfully."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:865
+msgid "Add-on included successfully."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:904
+#, php-format
+msgid "Updating addon %1$d of %2$d..."
+msgstr ""
+
+#: core/ecart/core/flow/Install.php:1246
+msgid "Return to Plugins page"
+msgstr ""
+
+#: core/ecart/core/flow/Login.php:101
+msgid "You must provide a valid login name or email address to proceed."
+msgstr ""
+
+#: core/ecart/core/flow/Login.php:138
+#: core/ecart/core/flow/Login.php:154
+msgid "No customer account was found with that email."
+msgstr ""
+
+#: core/ecart/core/flow/Login.php:143
+#: core/ecart/core/flow/Login.php:167
+msgid "The password is incorrect."
+msgstr ""
+
+#: core/ecart/core/flow/Login.php:166
+msgid "No customer account was found with that login."
+msgstr ""
+
+#: core/ecart/core/flow/Login.php:168
+msgid "Unknown login error: "
+msgstr ""
+
+#: core/ecart/core/flow/Promote.php:136
+msgid "Enabled"
+msgstr ""
+
+#: core/ecart/core/flow/Promote.php:137
+#: core/ecart/core/flow/Setup.php:422
+#: core/ecart/core/flow/Warehouse.php:395
+msgid "Disabled"
+msgstr ""
+
+#: core/ecart/core/flow/Promote.php:161
+msgid "Discount"
+msgstr ""
+
+#: core/ecart/core/flow/Promote.php:162
+msgid "Applied To"
+msgstr ""
+
+#: core/ecart/core/flow/Resources.php:168
+#, php-format
+msgid "\"%s\" cannot be downloaded because payment has not been received yet."
+msgstr ""
+
+#: core/ecart/core/flow/Resources.php:176
+msgid "You must login to download purchases."
+msgstr ""
+
+#: core/ecart/core/flow/Resources.php:183
+#, php-format
+msgid "\"%s\" is no longer available for download because the download limit has been reached."
+msgstr ""
+
+#: core/ecart/core/flow/Resources.php:190
+#, php-format
+msgid "\"%s\" is no longer available for download because it has expired."
+msgstr ""
+
+#: core/ecart/core/flow/Resources.php:198
+#, php-format
+msgid "\"%s\" cannot be downloaded because your computer could not be verified as the system the file was purchased from."
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:117
+msgid "Charged"
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:118
+msgid "Refunded"
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:119
+msgid "Void"
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:194
+msgid "Show All Orders"
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:215
+msgid "Intuit&reg; QuickBooks.iif"
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:243
+msgid "Destination"
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:244
+msgid "Transaction"
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:334
+msgid "Order Updated"
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:352
+msgid "Order status updated & notification email sent."
+msgstr ""
+
+#: core/ecart/core/flow/Service.php:353
+msgid "Order status updated."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:125
+msgid "Ecart settings saved."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:150
+msgid "Ecart presentation settings saved."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:156
+msgid "Ecart theme templates can't be used because they don't exist."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:183
+msgid "Grid"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:183
+msgid "List"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:186
+msgid "Custom"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:189
+msgid "Reverse Order"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:190
+msgid "Shuffle"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:192
+msgid "Custom arrangement"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:193
+msgid "File name"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:194
+msgid "Upload date"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:224
+msgid "Ecart checkout settings saved."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:230
+msgid "30 minutes"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:231
+msgid "1 hour"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:232
+msgid "2 hours"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:233
+msgid "3 hours"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:234
+msgid "6 hours"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:235
+msgid "12 hours"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:236
+msgid "1 day"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:237
+msgid "2 days"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:238
+msgid "3 days"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:239
+msgid "1 week"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:240
+msgid "1 month"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:241
+msgid "3 months"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:242
+msgid "6 months"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:243
+msgid "1 year"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:281
+msgid "Shipping settings saved."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:294
+msgid "Shipping settings saved but there were errors: "
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:332
+msgid "Ecart taxes settings saved."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:338
+msgid "All Markets"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:360
+msgid "Ecart payments settings saved."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:397
+msgid "Ecart system settings saved."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:404
+msgid "All cached images have been cleared."
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:414
+#: core/ecart/core/flow/Setup.php:424
+msgid "Transaction Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:415
+#: core/ecart/core/flow/Setup.php:425
+msgid "Login Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:416
+#: core/ecart/core/flow/Setup.php:426
+msgid "Add-on Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:417
+#: core/ecart/core/flow/Setup.php:427
+msgid "Communication Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:418
+#: core/ecart/core/flow/Setup.php:428
+msgid "Inventory Warnings"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:423
+msgid "General Ecart Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:429
+msgid "Admin Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:430
+msgid "Database Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:431
+msgid "PHP Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:432
+msgid "All Errors"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:433
+msgid "Debugging Messages"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:444
+msgid "Load on Ecart-pages only"
+msgstr ""
+
+#: core/ecart/core/flow/Setup.php:444
+msgid "Load on entire site"
+msgstr ""
+
+#: core/ecart/core/flow/Storefront.php:331
+msgid "Thank You!"
+msgstr ""
+
+#: core/ecart/core/flow/Storefront.php:332
+msgid "Confirm Order"
+msgstr ""
+
+#: core/ecart/core/flow/Storefront.php:1022
+msgid "The store is currently down for maintenance.  We'll be back soon!"
+msgstr ""
+
+#: core/ecart/core/flow/Storefront.php:1054
+msgid "Select an option"
+msgstr ""
+
+#: core/ecart/core/flow/Storefront.php:1061
+#: core/ecart/core/flow/Storefront.php:1064
+msgid "Select an add-on"
+msgstr ""
+
+#: core/ecart/core/flow/Storefront.php:1071
+msgid "Buy Now"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:181
+msgid "View all categories"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:182
+msgid "Uncategorized"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:189
+msgid "View all products"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:190
+msgid "In stock"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:191
+msgid "Low stock"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:192
+msgid "Out-of-stock"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:193
+msgid "Not stocked"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:200
+msgid "All"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:201
+msgid "Published"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:202
+#: core/ecart/core/model/Category.php:1638
+msgid "On Sale"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:203
+#: core/ecart/core/flow/Warehouse.php:335
+msgid "Featured"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:204
+#: core/ecart/core/flow/Warehouse.php:334
+#: core/ecart/core/flow/Warehouse.php:341
+msgid "Inventory"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:333
+msgid "Price"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:342
+msgid "SKU"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:393
+msgid "Tangible Product"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:394
+msgid "Digital Product"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:400
+msgid "Products Manager"
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:716
+msgid "The file could not be saved because the server cannot tell whether to attach the asset to a product or a category."
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:722
+msgid "The file could not be saved because the web server does not have permission to read the upload from the server's temporary directory."
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:751
+msgid "The image already exists, but a new filename could not be generated."
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:760
+msgid "The image reference was not saved to the database."
+msgstr ""
+
+#: core/ecart/core/flow/Warehouse.php:783
+msgid "Select a product&hellip;"
+msgstr ""
+
+#: core/ecart/core/model/Billing.php:24
+msgid "Billing Street Address"
+msgstr ""
+
+#: core/ecart/core/model/Billing.php:25
+msgid "Billing Street Address 2"
+msgstr ""
+
+#: core/ecart/core/model/Billing.php:26
+msgid "Billing City"
+msgstr ""
+
+#: core/ecart/core/model/Billing.php:27
+msgid "Billing State/Province"
+msgstr ""
+
+#: core/ecart/core/model/Billing.php:28
+msgid "Billing Country"
+msgstr ""
+
+#: core/ecart/core/model/Billing.php:29
+msgid "Billing Postal Code"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:201
+msgid "Edit shopping cart"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:203
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:676
+msgid "Off!"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:685
+#, php-format
+msgid "Buy %s get %s free"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:705
+msgid "Empty Cart"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:710
+msgid "Update Subtotal"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:742
+msgid "Apply Promo Code"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:807
+msgid "Free Shipping!"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:813
+msgid "Enter Postal Code"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:815
+msgid "Not Available"
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:1197
+msgid "No additional codes can be applied."
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:1280
+#, php-format
+msgid "%s is not a valid code."
+msgstr ""
+
+#: core/ecart/core/model/Cart.php:1355
+#, php-format
+msgid "%s has already been applied."
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:328
+msgid "Select category&hellip;"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:539
+msgid "Clear Filters"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:593
+msgid "Search the blog"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:594
+msgid "Search the shop"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:681
+msgid "start slideshow"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:682
+msgid "stop slideshow"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:683
+#: core/ecart/core/model/Category.php:1169
+msgid "previous"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:684
+#: core/ecart/core/model/Category.php:1168
+msgid "next"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:685
+msgid "close"
+msgstr ""
+
+#: core/ecart/core/model/Catalog.php:688
+#, php-format
+msgid "image %s of %s"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:788
+msgid "Order By Title"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:789
+msgid "Order By Price High to Low"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:790
+msgid "Order By Price Low to High"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:791
+msgid "Random Order"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:945
+#: core/ecart/core/model/Category.php:1101
+msgid "Select a sub-category&hellip;"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1167
+msgid "Pages:"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1273
+#: core/ecart/core/model/Category.php:1288
+#: core/ecart/core/model/Category.php:1352
+#: core/ecart/core/model/Category.php:1381
+msgid "Under "
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1274
+#: core/ecart/core/model/Category.php:1289
+#: core/ecart/core/model/Category.php:1358
+#: core/ecart/core/model/Category.php:1382
+msgid "and up"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1292
+msgid "Price Range"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1603
+msgid "Catalog Products"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1615
+msgid "New Products"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1627
+msgid "Featured Products"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1649
+msgid "Bestsellers"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1705
+msgid "(no search terms)"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1706
+msgid "Search Results for"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1727
+msgid "Products tagged"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1784
+msgid "Products related to"
+msgstr ""
+
+#: core/ecart/core/model/Category.php:1809
+msgid "Random Products"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:97
+msgid "Logout"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:103
+msgid "Order History"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:107
+msgid "Downloads"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:111
+msgid "My Account"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:152
+#: core/ecart/core/model/Order.php:705
+msgid "The passwords you entered do not match. Please re-enter your passwords."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:188
+#, php-format
+msgid "Order number %s could not be found in your order history."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:212
+msgid "Enter an email address or login name"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:213
+msgid "Enter an email address"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:219
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:224
+msgid "There is no user registered with that login name."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:236
+#, php-format
+msgid "[%s] Password Recovery Request"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:243
+msgid "A request has been made to reset the password for the following site and account:"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:247
+#, php-format
+msgid "Email: %s"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:249
+#: core/ecart/core/model/Customer.php:306
+#, php-format
+msgid "Login name: %s"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:251
+msgid "To reset your password visit the following address, otherwise just ignore this email and nothing will happen."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:257
+#: core/ecart/core/model/Customer.php:313
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:260
+msgid "Check your email address for instructions on resetting the password for your account."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:273
+#: core/ecart/core/model/Customer.php:277
+msgid "Invalid key"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:295
+#, php-format
+msgid "[%s] New Password"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:303
+#, php-format
+msgid "Your new password for %s:"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:307
+#: core/ecart/core/model/Customer.php:347
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:309
+msgid "Click here to login:"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:315
+msgid "Check your email address for your new password."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:330
+#: core/ecart/core/model/Customer.php:343
+#, php-format
+msgid "[%s] New Customer Registration"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:332
+#: core/ecart/core/model/Customer.php:345
+#, php-format
+msgid "New customer registration on your \"%s\" store:"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:333
+#: core/ecart/core/model/Customer.php:346
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:406
+#: core/ecart/core/model/Order.php:694
+msgid "This login name is invalid because it uses illegal characters. Please enter a valid login name."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:410
+msgid "The login name is already registered. Please choose another login name."
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:450
+#: core/ecart/core/model/Purchase.php:95
+msgid "Customer's First Name"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:451
+#: core/ecart/core/model/Purchase.php:96
+msgid "Customer's Last Name"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:452
+#: core/ecart/core/model/Purchase.php:97
+msgid "Customer's Email Address"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:453
+#: core/ecart/core/model/Purchase.php:98
+msgid "Customer's Phone Number"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:454
+#: core/ecart/core/model/Purchase.php:99
+msgid "Customer's Company"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:455
+msgid "Customer's Marketing Preference"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:457
+msgid "Customer Created Date"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:458
+msgid "Customer Last Updated Date"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:507
+msgid "Email Address"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:508
+msgid "Login Name"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:530
+msgid "Get New Password"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:791
+#: core/ecart/core/model/Order.php:1166
+msgid "Same shipping address"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:799
+#: core/ecart/core/model/Order.php:1174
+msgid "Residential shipping address"
+msgstr ""
+
+#: core/ecart/core/model/Customer.php:881
+msgid "Save"
+msgstr ""
+
+#: core/ecart/core/model/Error.php:515
+msgid "Ecart Notification"
+msgstr ""
+
+#: core/ecart/core/model/Error.php:517
+msgid "This is an automated message notification generated when the Ecart installation at "
+msgstr ""
+
+#: core/ecart/core/model/Gateway.php:88
+msgid "Credit Card"
+msgstr ""
+
+#: core/ecart/core/model/Item.php:163
+msgid "The product could not be added to the cart because it could not be found."
+msgstr ""
+
+#: core/ecart/core/model/Item.php:167
+msgid "The product could not be added to the cart because it is not in stock."
+msgstr ""
+
+#: core/ecart/core/model/Item.php:216
+msgid "Not enough of the product is available in stock to fulfill your request."
+msgstr ""
+
+#: core/ecart/core/model/Item.php:382
+#: core/ecart/core/model/Item.php:395
+#, php-format
+msgid "%s is now out-of-stock!"
+msgstr ""
+
+#: core/ecart/core/model/Item.php:384
+#: core/ecart/core/model/Item.php:398
+#, php-format
+msgid "%s has low stock levels and should be re-ordered soon."
+msgstr ""
+
+#: core/ecart/core/model/Item.php:577
+msgid "Remove"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:34
+msgid "North America"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:35
+msgid "Central America"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:36
+msgid "South America"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:37
+msgid "Europe"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:38
+msgid "Middle East"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:39
+msgid "Africa"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:40
+msgid "Asia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:41
+msgid "Oceania"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:72
+msgid "Canada"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:73
+msgid "USA"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:75
+msgid "US Armed Forces"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:76
+msgid "United Kingdom"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:77
+msgid "Algeria"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:78
+msgid "Argentina"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:79
+msgid "Aruba"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:80
+msgid "Australia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:81
+msgid "Austria"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:82
+msgid "Barbados"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:83
+msgid "Bahamas"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:84
+msgid "Bahrain"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:85
+msgid "Belgium"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:86
+msgid "Brazil"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:87
+msgid "Bulgaria"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:88
+msgid "Chile"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:89
+msgid "China"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:90
+msgid "Colombia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:91
+msgid "Costa Rica"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:92
+msgid "Croatia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:93
+msgid "Cyprus"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:94
+msgid "Czech Republic"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:95
+msgid "Denmark"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:96
+msgid "Dominican Republic"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:97
+msgid "Ecuador"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:98
+msgid "Egypt"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:99
+msgid "Estonia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:100
+msgid "Finland"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:101
+msgid "France"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:102
+msgid "Germany"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:103
+msgid "Greece"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:104
+msgid "Guadeloupe"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:105
+msgid "Guatemala"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:106
+msgid "Hong Kong"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:107
+msgid "Hungary"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:108
+msgid "Iceland"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:109
+msgid "India"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:110
+msgid "Indonesia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:111
+msgid "Ireland"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:112
+msgid "Israel"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:113
+msgid "Italy"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:114
+msgid "Jamaica"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:115
+msgid "Japan"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:116
+msgid "Latvia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:117
+msgid "Lithuania"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:118
+msgid "Luxembourg"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:119
+msgid "Malaysia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:120
+msgid "Malta"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:121
+msgid "Mexico"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:122
+msgid "Netherlands"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:123
+msgid "New Zealand"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:124
+msgid "Nigeria"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:125
+msgid "Norway"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:126
+msgid "Pakistan"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:127
+msgid "Panama"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:128
+msgid "Peru"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:129
+msgid "Philippines"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:130
+msgid "Poland"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:131
+msgid "Portugal"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:132
+msgid "Puerto Rico"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:133
+msgid "Romania"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:134
+msgid "Russia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:135
+msgid "Singapore"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:136
+msgid "Slovakia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:137
+msgid "Slovenia"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:138
+msgid "South Africa"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:139
+msgid "South Korea"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:140
+msgid "Spain"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:141
+msgid "St. Vincent"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:142
+msgid "Sweden"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:143
+msgid "Switzerland"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:144
+msgid "Taiwan"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:145
+msgid "Thailand"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:146
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:147
+msgid "Turkey"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:148
+msgid "Ukraine"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:149
+msgid "United Arab Emirates"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:150
+msgid "Uruguay"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:151
+msgid "Venezuela"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:279
+msgid "Retail"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:280
+msgid "Wholesale"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:281
+msgid "Referral"
+msgstr ""
+
+#: core/ecart/core/model/Lookup.php:282
+msgid "Tax-Exempt"
+msgstr ""
+
+#: core/ecart/core/model/Modules.php:185
+#, php-format
+msgid "%s could not be loaded because the file descriptors are incomplete."
+msgstr ""
+
+#: core/ecart/core/model/Modules.php:195
+#, php-format
+msgid "%s could not be loaded because it requires version %s (or higher) of Ecart."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:194
+msgid "The payment method you selected is no longer available. Please choose another."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:346
+msgid "Payment information for this order is missing."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:409
+msgid "Free Order"
+msgstr ""
+
+#: core/ecart/core/model/Order.php:537
+#, php-format
+msgid "Transaction %s failed. Could not acheive a transaction lock."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:574
+msgid "Order Receipt"
+msgstr ""
+
+#: core/ecart/core/model/Order.php:581
+msgid "New Order"
+msgstr ""
+
+#: core/ecart/core/model/Order.php:639
+msgid "You must provide your first name."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:642
+msgid "You must provide your last name."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:652
+msgid "You must provide a valid e-mail address."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:660
+msgid "The login name you provided is not available.  Try logging in if you have previously created an account."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:675
+msgid "A login is not available for creation with the information you provided.  Please try a different email address or name, or try logging in if you previously created an account."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:680
+msgid "The email address you entered is already in use. Try logging in if you previously created an account, or enter another email address to create your new account."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:684
+msgid "The email address you entered is already in use. Try logging in if you previously created an account, or enter another email address to create a new account."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:689
+msgid "You must enter a login name for your account."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:697
+msgid "The login name is already in use. Try logging in if you previously created that account, or enter another login name for your new account."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:702
+msgid "You must provide a password for your account and confirm it to ensure correct spelling."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:710
+msgid "You must enter a valid street address for your billing information."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:713
+msgid "You must enter a valid postal code for your billing information."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:716
+msgid "You must select a country for your billing information."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:723
+msgid "You did not provide a credit card number."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:726
+msgid "You did not select a credit card type."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:731
+msgid "The credit card number you provided is invalid."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:734
+msgid "You did not enter the month the credit card expires."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:737
+msgid "You did not enter the year the credit card expires."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:741
+msgid "The credit card expiration date you provided has already expired."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:744
+msgid "You did not enter the name on the credit card you provided."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:747
+msgid "You did not enter a valid security ID for the card you provided. The security ID is a 3 or 4 digit number found on the back of the credit card."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:778
+msgid "There are no items in the cart."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:785
+#, php-format
+msgid "%s does not have sufficient stock to process order."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:802
+msgid "There is not enough customer information to process the order."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:817
+#, php-format
+msgid "The order cannot be processed. No shipping costs could be determined. Either the shipping rate provider was unavailable, or may have rejected the shipping address you provided. Please return to %scheckout%s and try again."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:825
+msgid "The shipping address information is incomplete. The order cannot be processed."
+msgstr ""
+
+#: core/ecart/core/model/Order.php:894
+msgid "Updating"
+msgstr ""
+
+#: core/ecart/core/model/Order.php:1470
+msgid "Submit Order"
+msgstr ""
+
+#: core/ecart/core/model/Order.php:1488
+msgid "Return to Checkout"
+msgstr ""
+
+#: core/ecart/core/model/Product.php:653
+msgid "copy"
+msgstr ""
+
+#: core/ecart/core/model/Product.php:1278
+#: core/ecart/core/model/Product.php:1435
+msgid "You must select the options for this item before you can add it to your shopping cart."
+msgstr ""
+
+#: core/ecart/core/model/Product.php:1284
+#: core/ecart/core/model/Product.php:1438
+msgid "Options"
+msgstr ""
+
+#: core/ecart/core/model/Product.php:1607
+msgid "Add to Cart"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:54
+msgid "A purchase notification could not be sent because the template for it does not exist."
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:93
+msgid "Order ID"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:94
+msgid "Customer's IP Address"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:100
+msgid "Credit Card Number"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:101
+msgid "Credit Card Type"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:102
+msgid "Credit Card Expiration Date"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:103
+msgid "Credit Card Holder's Name"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:110
+msgid "Shipping Street Address"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:111
+msgid "Shipping Street Address 2"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:112
+msgid "Shipping City"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:113
+msgid "Shipping State/Province"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:114
+msgid "Shipping Country"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:115
+msgid "Shipping Postal Code"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:116
+msgid "Shipping Method"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:117
+msgid "Promotions Applied"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:118
+msgid "Order Subtotal"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:119
+msgid "Order Discount"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:120
+msgid "Order Shipping Fees"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:121
+msgid "Order Taxes"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:122
+msgid "Order Total"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:123
+msgid "Transaction Fees"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:124
+msgid "Transaction ID"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:125
+msgid "Transaction Status"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:126
+msgid "Payment Gateway"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:127
+msgid "Order Status"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:128
+msgid "Order Data"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:129
+msgid "Order Date"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:130
+msgid "Order Last Updated"
+msgstr ""
+
+#: core/ecart/core/model/Purchase.php:673
+msgid "QuickBooks account name for transactions"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:92
+msgid "Line Item ID"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:93
+msgid "Product Name"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:94
+msgid "Product Variation Name"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:95
+msgid "Product Description"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:96
+msgid "Product SKU"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:97
+msgid "Product Quantity Purchased"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:98
+msgid "Product Unit Price"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:99
+msgid "Product Total Price"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:100
+msgid "Product Data"
+msgstr ""
+
+#: core/ecart/core/model/Purchased.php:101
+msgid "Product Downloads"
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:3
+msgid "Arrange Categories"
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:13
+msgid "Return to Manage Categories"
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:40
+#: core/ecart/core/ui/categories/categories.php:54
+msgid "no category name"
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:51
+#: core/ecart/core/ui/categories/products.php:48
+msgid "Move to the top"
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:51
+#: core/ecart/core/ui/categories/products.php:48
+msgid "Move to the bottom"
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:51
+#: core/ecart/core/ui/categories/categories.php:58
+#: core/ecart/core/ui/categories/categories.php:60
+#: core/ecart/core/ui/categories/products.php:49
+#: core/ecart/core/ui/customers/customers.php:55
+msgid "Edit"
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:58
+#: core/ecart/core/ui/categories/categories.php:73
+#: core/ecart/core/ui/categories/products.php:55
+msgid "No categories found."
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:71
+msgid "The category order could not be updated because of a communication error with the server."
+msgstr ""
+
+#: core/ecart/core/ui/categories/arrange.php:72
+msgid "The child categories could not be loaded because of a communication error with the server."
+msgstr ""
+
+#: core/ecart/core/ui/categories/categories.php:3
+msgid "Add New Category"
+msgstr ""
+
+#: core/ecart/core/ui/categories/categories.php:13
+msgid "Search Categories"
+msgstr ""
+
+#: core/ecart/core/ui/categories/categories.php:19
+#: core/ecart/core/ui/categories/categories.php:61
+#: core/ecart/core/ui/customers/customers.php:19
+msgid "Delete"
+msgstr ""
+
+#: core/ecart/core/ui/categories/categories.php:21
+msgid "Arrange"
+msgstr ""
+
+#: core/ecart/core/ui/categories/categories.php:62
+msgid "View"
+msgstr ""
+
+#: core/ecart/core/ui/categories/categories.php:96
+msgid ""
+"You are about to delete this category!\\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: core/ecart/core/ui/categories/categories.php:105
+msgid "Are you sure you want to delete the selected categories?"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:5
+msgid "Add or Edit Category"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:26
+msgid "Category Name"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:31
+msgid "Permalink"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:32
+msgid "Click to edit this part of the permalink"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:84
+msgid "Are you sure you want to delete this category image?"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:85
+msgid "There was an error communicating with the server."
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:88
+msgid "Detail Name"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:89
+#: core/ecart/core/ui/categories/category.php:98
+msgid "New Option"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:90
+msgid "Faceted menu disabled"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:91
+msgid "Build faceted menu automatically"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:92
+msgid "Build as custom number ranges"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:93
+msgid "Build from preset options"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:94
+#: core/ecart/core/ui/categories/ui.php:69
+#: core/ecart/core/ui/categories/ui.php:71
+msgid "Add New Image"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:96
+msgid "Cancel"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:97
+msgid "Option Menu"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:100
+msgid "Upload&nbsp;File"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:101
+msgid "Type"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:103
+msgid "Amount"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:104
+msgid "Sale Price"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:105
+msgid "Not on Sale"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:106
+msgid "Not Taxed"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:107
+msgid "Shipping"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:108
+msgid "Free Shipping"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:109
+msgid "Weight"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:110
+msgid "Handling Fee"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:111
+msgid "Amount added to shipping costs for each unit ordered (for handling costs, etc)"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:113
+msgid "Not Tracked"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:114
+msgid "In Stock"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:116
+msgid "Stock Keeping Unit"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:117
+msgid "Enter a unique stock keeping unit identification code."
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:118
+msgid "Accept variable amounts"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:119
+msgid "Amount required as minimum"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:120
+msgid "Product Download"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:121
+msgid "No product download."
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:122
+msgid "No download file."
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:123
+msgid "An unknown error occurred. The upload could not be saved."
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:124
+msgid "Price & Delivery"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:125
+msgid "The file you specified could not be found."
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:126
+msgid "The file you specified is not readable and cannot be used."
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:127
+msgid "The file you specified is a directory and cannot be used."
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:128
+msgid "Image Details"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:129
+msgid "Title"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:130
+msgid "Alt"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:131
+msgid "OK"
+msgstr ""
+
+#: core/ecart/core/ui/categories/category.php:132
+msgid "Cropped images"
+msgstr ""
+
+#: core/ecart/core/ui/categories/products.php:3
+#, php-format
+msgid "Arrange Products for \"%s\""
+msgstr ""
+
+#: core/ecart/core/ui/categories/products.php:14
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: core/ecart/core/ui/categories/products.php:41
+msgid "no product name"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:7
+msgid "Category Manager"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:19
+#: core/ecart/core/ui/categories/ui.php:23
+msgid "Save Category"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:34
+msgid "Product Details Template"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:34
+msgid "Predefined details for products created in this category"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:35
+msgid "Faceted Menus"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:35
+msgid "Build drill-down filter menus based on the details template of this category"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:36
+msgid "Variations"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:36
+msgid "Predefined selectable product options for products created in this category"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:37
+msgid "Arrange Products"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:41
+msgid "Category Settings"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:74
+msgid "Double-click images to edit their details. Save the product to confirm deleted images."
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:77
+msgid "Category Images"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:87
+msgid "Setup template values that will be copied into new products that are created and assigned this category."
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:92
+msgid "Product Details"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:102
+msgid "Add Detail"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:110
+#: core/ecart/core/ui/categories/ui.php:156
+msgid "Add Option"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:120
+msgid "Price Range Search"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:129
+msgid "Add Price Range"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:136
+msgid "Configure how you want price range options in this category to appear."
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:142
+msgid "Variation Option Menus"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:145
+msgid "Create a predefined set of variation options for products in this category."
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:149
+msgid "Add Option Menu"
+msgstr ""
+
+#: core/ecart/core/ui/categories/ui.php:170
+msgid "Product Templates &amp; Menus"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:3
+msgid "Store Registered Customers"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:14
+msgid "Search"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:26
+msgid "to"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:29
+msgid "Filter"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:51
+msgid "no contact name"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:75
+msgid "No"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:75
+msgid "customers, yet."
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:84
+msgid "Export Options"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:88
+msgid "Select All"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:89
+msgid "Include column headings"
+msgstr ""
+
+#: core/ecart/core/ui/customers/customers.php:126
+msgid "Are you sure you want to delete the selected customers?"
+msgstr ""
+
+#: core/ecart/core/ui/customers/editor.php:5
+msgid "Customer Editor"
+msgstr ""
+
+#: core/ecart/core/ui/customers/editor.php:43
+#: core/ecart/core/ui/customers/ui.php:49
+msgid "Strength indicator"
+msgstr ""
+
+#: core/ecart/core/ui/customers/editor.php:44
+msgid "Good"
+msgstr ""
+
+#: core/ecart/core/ui/customers/editor.php:45
+msgid "Bad"
+msgstr ""
+
+#: core/ecart/core/ui/customers/editor.php:46
+msgid "Short"
+msgstr ""
+
+#: core/ecart/core/ui/customers/editor.php:47
+msgid "Strong"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:10
+#: core/ecart/core/ui/customers/ui.php:14
+msgid "Save Changes"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:22
+msgid "Subscribes to marketing"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:29
+msgid "Customer Type"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:36
+msgid "Settings"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:42
+msgid "Enter a new password to change it."
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:46
+msgid "Confirm the new password."
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:53
+msgid "Change Password"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:64
+msgid "Login (Click to edit user)"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:70
+msgid "First Name"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:74
+msgid "Last Name"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:79
+msgid "Company"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:84
+msgid "(required)"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:88
+msgid "Phone"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:96
+msgid "Profile"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:111
+msgid "Details"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:119
+#: core/ecart/core/ui/customers/ui.php:157
+msgid "Street Address"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:124
+#: core/ecart/core/ui/customers/ui.php:162
+msgid "City"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:131
+#: core/ecart/core/ui/customers/ui.php:169
+msgid "State / Province"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:135
+#: core/ecart/core/ui/customers/ui.php:173
+msgid "Postal Code"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:143
+#: core/ecart/core/ui/customers/ui.php:181
+msgid "Country"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:150
+msgid "Billing Address"
+msgstr ""
+
+#: core/ecart/core/ui/customers/ui.php:188
+msgid "Shipping Address"
+msgstr ""
+
+#: core/ecart/core/ui/help/reactivate.php:6
+msgid "Ops... something went wrong!"
+msgstr ""
+
+#: core/ecart/core/ui/orders/account.php:5
+msgid "Order Number"
+msgstr ""
+
+#: core/ecart/core/ui/orders/account.php:6
+msgid "E-mail Address"
+msgstr ""
+
+#: core/ecart/core/ui/orders/account.php:7
+msgid "View Order"
+msgstr ""
+
+#: core/ecart/core/ui/orders/navigation.php:2
+msgid "All Orders"
+msgstr ""
+
+#: core/ecart/core/ui/orders/order.php:15
+msgid "Print Order"
+msgstr ""
+
+#: core/ecart/core/ui/orders/order.php:22
+msgid "Items Ordered"
+msgstr ""
+
+#: core/ecart/core/ui/orders/order.php:23
+msgid "Quantity"
+msgstr ""
+
+#: core/ecart/core/ui/orders/order.php:24
+msgid "Item Price"
+msgstr ""
+
+#: core/ecart/core/ui/orders/order.php:25
+msgid "Item Total"
+msgstr ""
+
+#: core/ecart/core/ui/orders/order.php:64
+msgid "Subtotal"
+msgstr ""
+
+#: core/ecart/core/ui/orders/order.php:89
+msgid "Tax"
+msgstr ""
+
+#: core/ecart/core/ui/orders/order.php:101
+msgid "There were no items found for this purchase."
+msgstr ""
+
+#: core/ecart/core/ui/orders/orders.php:3
+msgid "Shopping Cart Orders History"
+msgstr ""
+
+#: core/ecart/core/ui/orders/orders.php:15
+msgid "Search Orders"
+msgstr ""
+
+#: core/ecart/core/ui/orders/orders.php:21
+msgid "Total Sales"
+msgstr ""
+
+#: core/ecart/core/ui/orders/orders.php:22
+msgid "Average Sale"
+msgstr ""
+
+#: core/ecart/core/ui/orders/orders.php:32
+msgid "Update"
+msgstr ""
+
+#: core/ecart/core/ui/orders/orders.php:98
+msgid "orders, yet."
+msgstr ""
+
+#: core/ecart/core/ui/orders/orders.php:157
+msgid "Are you sure you want to delete the selected orders?"
+msgstr ""
+
+#: core/ecart/core/ui/orders/orders.php:162
+msgid "Are you sure you want to update the status of the selected orders?"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:42
+#, php-format
+msgid "RE: %s: Order #%s"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:66
+msgid "Agreed to marketing"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:66
+msgid "No marketing"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:69
+msgid "Customer Contact"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:92
+msgid "Processed by"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:103
+msgid "Payment Method"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:110
+msgid "Ship via"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:114
+msgid "Tracking ID"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:147
+msgid "Message to customer:"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:149
+msgid "Include a copy of the order in the message"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:152
+msgid "Send a message to the customer"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:156
+msgid "Payment"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:166
+msgid "Update Status"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:208
+msgid "New Note"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:213
+msgid "Save Note"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:217
+msgid "Add Note"
+msgstr ""
+
+#: core/ecart/core/ui/orders/ui.php:221
+msgid "Notes"
+msgstr ""
+
+#: core/ecart/core/ui/products/editor.php:5
+msgid "Add Or Edit Products"
+msgstr ""
+
+#: core/ecart/core/ui/products/editor.php:27
+msgid "Enter product name"
+msgstr ""
+
+#: core/ecart/core/ui/products/editor.php:38
+msgid "Product ID"
+msgstr ""
+
+#: core/ecart/core/ui/products/inventory.php:17
+#: core/ecart/core/ui/products/products.php:17
+msgid "Search Products"
+msgstr ""
+
+#: core/ecart/core/ui/products/inventory.php:72
+#: core/ecart/core/ui/products/products.php:94
+msgid "No products found."
+msgstr ""
+
+#: core/ecart/core/ui/products/products.php:4
+msgid "Store Products Management"
+msgstr ""
+
+#: core/ecart/core/ui/products/products.php:4
+msgid "Add New Product"
+msgstr ""
+
+#: core/ecart/core/ui/products/products.php:75
+msgid "Duplicate"
+msgstr ""
+
+#: core/ecart/core/ui/products/products.php:128
+msgid "Are you sure you want to delete the selected products?"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:23
+msgid "Publish"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:23
+#, php-format
+msgid "on: %s"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:23
+msgid "Schedule"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:31
+#: core/ecart/core/ui/promotions/ui.php:17
+#: core/ecart/core/ui/promotions/ui.php:23
+msgid "Month"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:31
+#: core/ecart/core/ui/promotions/ui.php:17
+#: core/ecart/core/ui/promotions/ui.php:23
+msgid "Day"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:31
+#: core/ecart/core/ui/promotions/ui.php:17
+#: core/ecart/core/ui/promotions/ui.php:23
+msgid "Year"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:33
+msgid "Hour"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:33
+msgid "Minute"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:35
+msgid "AM"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:35
+msgid "PM"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:47
+#: core/ecart/core/ui/products/ui.php:53
+msgid "Save Product"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:96
+#: core/ecart/core/ui/products/ui.php:117
+msgid "Add"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:105
+msgid "Products Categories"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:116
+msgid "enter, new, tags"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:118
+msgid "Separate tags with commas"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:126
+msgid "Tags"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:139
+msgid "Featured Product"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:140
+msgid "Enable Product Features"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:146
+msgid "Product Customization"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:162
+msgid "Store Front Summary (excerpt)"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:181
+msgid "Add Product Detail"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:182
+msgid "Build a list of detailed information such as dimensions or features of the product."
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:190
+msgid "Details &amp; Specs"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:226
+msgid "Upload New Image"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:232
+msgid "Product Images Gallery"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:247
+msgid "Product Pricing Variations Enabled"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:257
+msgid "Pricing Variations Groups"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:265
+msgid "Add New Features Group"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:272
+msgid "Pricing Features List"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:282
+msgid "Add New Feature"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:296
+msgid "Add-on Option Menus"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:299
+msgid "Create the menus and menu options for the product's add-ons."
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:303
+msgid "New Add-on Group"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:324
+msgid "Please note: once uploaded you can't remove the file. If you want to delete the file you have to login via ftp on your host and delete it from the storage folder."
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:325
+msgid "Upload a file from your computer"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:326
+msgid "Upload File"
+msgstr ""
+
+#: core/ecart/core/ui/products/ui.php:333
+msgid "Product Pricing &amp; Variations"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/editor.php:5
+msgid "Add or Edit Coupon"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/editor.php:27
+msgid "Coupon Code"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:4
+msgid "Shopping Cart Coupons"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:4
+msgid "Add New Coupon"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:13
+msgid "Search Promotions"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:39
+msgid "no promotion name"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:54
+#: core/ecart/core/ui/promotions/ui.php:54
+msgid "Buy"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:54
+#: core/ecart/core/ui/promotions/ui.php:54
+msgid "Get"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:54
+msgid "Free"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:63
+msgid "does not expire"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:70
+msgid "No promotions found."
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:92
+msgid ""
+"You are about to delete this promotion!\\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: core/ecart/core/ui/promotions/promotions.php:101
+msgid "Are you sure you want to delete the selected promotions?"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:8
+msgid "Coupon Enabled ?"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:18
+msgid "Start promotion on this date."
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:24
+msgid "End the promotion on this date."
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:31
+msgid "Save Coupon"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:39
+msgid "Percentage Off"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:40
+msgid "Amount Off"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:56
+msgid "Select the discount type and amount."
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:60
+msgid "Coupon Discount Mode"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:64
+msgid "shopping cart"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:75
+msgid "any"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:75
+msgid "all"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:79
+#, php-format
+msgid "Apply discount to %s"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:82
+#, php-format
+msgid "When %s of these conditions match the"
+msgstr ""
+
+#: core/ecart/core/ui/promotions/ui.php:87
+msgid "Conditions"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:24
+msgid "Documentation"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:25
+msgid "Support"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:26
+msgid "Theme Version : "
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:30
+msgid "Save Shopping Cart Configuration"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:79
+msgid "Show Order Confirmation Page"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:86
+msgid "Show for taxed orders only"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:87
+msgid "Show for all orders"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:96
+msgid "Choose if you want to show the order confirmation page for taxed orders only or for every order placed on your store."
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:104
+msgid "Order Receipt Confirmation Emails"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:111
+msgid "Send to Customer Only"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:112
+msgid "Send to Customer &amp; Shop Owner Email"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:122
+msgid "You can setup the email address from the general settings tab."
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:131
+msgid "Store Customer Accounts System"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:139
+msgid "No Accounts Record"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:141
+msgid "Enable Account System integrated with WordPress Accounts"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:152
+msgid "Select where you are selling products to. This setting is required only when you need to ship products"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:161
+msgid "Order Increment Number"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:180
+msgid "Set the next order number to sync with your store orders system."
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:189
+msgid "Coupons Usage Limit Per order"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:210
+msgid "Set the coupons usage limit per order for your store coupons system."
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:218
+msgid "Digital Products Download Limit"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:239
+msgid "Set the digital products download limit per product for your store."
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:249
+msgid "Time Limit"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:251
+msgid "No Limit"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:257
+msgid "IP Restriction"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:259
+msgid "Restrict to the computer the product is purchased from"
+msgstr ""
+
+#: core/ecart/core/ui/settings/checkout.php:276
+#, php-format
+msgid "Contact <a href=\"%s\">customer service</a>."
+msgstr ""
+
+#: core/ecart/core/ui/settings/payments.php:70
+msgid "Add Payment Gateway"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:29
+msgid "Save Ecarting Cart Configuration"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:72
+msgid "Catalog Inventory"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:79
+msgid "Show out-of-stock products in the catalog"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:88
+msgid "Check this option to show out of stock products in your catalog, otherwise uncheck this option to automatically hide out of stock products from your catalog"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:117
+#: core/ecart/core/ui/settings/presentation.php:122
+msgid "Catalog Products Per Page"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:134
+msgid "Please choose how many products per page you want to show, note that this affects only the catalog page."
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:143
+msgid "Catalog Product Order"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:163
+msgid "Set the default display order of products shown in categories and catalog."
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:172
+msgid "Product Images Order"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:195
+msgid "Set the default display order of your product pictures."
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:207
+#: core/ecart/core/ui/settings/settings.php:174
+msgid "Dashboard Widgets"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:209
+#: core/ecart/core/ui/settings/settings.php:176
+msgid "Check this to display store performance metrics and more on the WordPress Dashboard."
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:211
+#: core/ecart/core/ui/settings/settings.php:178
+msgid "Order Status Labels"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:215
+#: core/ecart/core/ui/settings/settings.php:182
+msgid "Add your own order processing status labels. Be sure to click"
+msgstr ""
+
+#: core/ecart/core/ui/settings/presentation.php:215
+#: core/ecart/core/ui/settings/settings.php:182
+msgid "below!"
+msgstr ""
+
+#: core/ecart/core/ui/settings/settings.php:78
+msgid "Store Administrator Merchant Email"
+msgstr ""
+
+#: core/ecart/core/ui/settings/settings.php:83
+msgid "Administrator Merchant Email"
+msgstr ""
+
+#: core/ecart/core/ui/settings/settings.php:94
+msgid "Enter the email address of the administrator of this store, this is where you'll receive e-mail notifications."
+msgstr ""
+
+#: core/ecart/core/ui/settings/settings.php:102
+#: core/ecart/core/ui/settings/settings.php:107
+msgid "Store Location (Needed for shipping)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/settings.php:125
+msgid "Please select the physical location of your store, this setting is required only when you need to ship products"
+msgstr ""
+
+#: core/ecart/core/ui/settings/settings.php:134
+msgid "Where do you sell products ?"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:70
+msgid "Enable Shipping ?"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:77
+msgid "Shipping is Currently Enabled On your Store"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:86
+msgid "Check this option to enable shipping. Uncheck this option if you don't need shipping or you are selling digital products"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:94
+msgid "Product Weight Unit"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:104
+msgid "ounces (oz)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:104
+msgid "pounds (lbs)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:105
+msgid "gram (g)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:105
+msgid "kilogram (kg)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:117
+msgid "Please select your weight unit, this will be used for shipping products"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:126
+msgid "Product Dimension Unit"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:136
+msgid "inches (in)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:136
+msgid "feet (ft)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:137
+msgid "centimeters (cm)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:137
+msgid "meters (m)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:149
+msgid "Please select your dimension unit, this will be used for shipping products"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:159
+msgid "Order Handling Fee"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:175
+msgid "You can add an handling fee for your products, this fee will be applied once to each order with shipped products "
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:184
+#: core/ecart/core/ui/settings/shipping.php:190
+msgid "Free Shipping Text Product Notice"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:200
+msgid "Text used to highlight no shipping costs (examples: Free shipping available!)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:209
+#: core/ecart/core/ui/settings/shipping.php:215
+msgid "Out-of-stock Product Notice"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:225
+#: core/ecart/core/ui/settings/shipping.php:250
+msgid "Text used to notify the customer the product is out-of-stock"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:234
+#: core/ecart/core/ui/settings/shipping.php:240
+msgid "Low Inventory Warning"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:264
+msgid "Domestic Regions"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:266
+msgid "Used for domestic regional shipping rates (only applies to operations based in the U.S. &amp; Canada)"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:267
+msgid "Note:"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:267
+msgid "You must click the \"Save Changes\" button for changes to take effect."
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:273
+msgid "Shipping Methods &amp; Rates"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:274
+msgid "Shipping rates based on the order amount are calculated once against the order subtotal (which does not include tax). Shipping rates based on item quantity are calculated against the total quantity of each different item ordered."
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:278
+msgid "Add New Shipping Method"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:280
+msgid "You must select a Base of Operations location under"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:280
+msgid "Main settings"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:280
+msgid "before you can configure shipping methods."
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:306
+msgid "Shipping Method Name"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:356
+msgid "Are you sure you want to delete this shipping method?"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:428
+msgid "Shipping Method Delivery time"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:428
+msgid "Business Days"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:428
+msgid "business day"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:428
+msgid "business days"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:428
+msgid "Weeks"
+msgstr ""
+
+#: core/ecart/core/ui/settings/shipping.php:428
+msgid "weeks"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:70
+msgid "Products Image Storage Path"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:90
+msgid "Type the product pictures storage path, follow the documentation for more informations"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:98
+msgid "Digital Product File Storage Path"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:119
+msgid "Type the digital product storage path, follow the documentation for more informations"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:131
+msgid "Search Index"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:132
+msgid "Rebuild Product Search Index"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:133
+msgid "Update search indexes for all the products in the catalog."
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:137
+msgid "Image Cache"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:138
+msgid "Delete Cached Images"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:139
+msgid "Removes all cached images so that they will be recreated."
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:149
+msgid "Enable Flash Uploader"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:156
+msgid "Enable Flash picture uploader"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:166
+msgid "Enable to use Flash uploader. Disable this setting if you are having problems uploading."
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:177
+msgid "Script Loading"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:178
+msgid "Load behavioral scripts through WordPress"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:179
+msgid "Enable this setting when experiencing problems loading scripts with the Ecart Script Server"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:180
+msgid "Enable Ecart behavioral scripts site-wide"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:181
+msgid "Enable this to make Ecart behaviors available across all of your WordPress posts and pages."
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:185
+msgid "Error Notifications"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:191
+msgid "Send email notifications of the selected errors to the merchant's email address."
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:194
+msgid "Error Logging"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:198
+msgid "Limit logging errors up to the level of the selected error type."
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:203
+msgid "Error Log"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:207
+msgid "Reset Log"
+msgstr ""
+
+#: core/ecart/core/ui/settings/system.php:278
+msgid "Product Indexing"
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:70
+msgid "Enable Taxes Calculation"
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:76
+msgid "Enables tax calculations ?"
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:85
+msgid "Check this option to enable taxes calculation. Disable if you are selling non-taxable products."
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:93
+msgid "Enable Tax Shipping"
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:100
+msgid "Enable to add shipping and handling in taxes."
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:110
+msgid "Check this option to enable shipping taxes and handling fee in taxes, disable this option if you are selling non-taxable products"
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:126
+msgid "Error :"
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:126
+#, php-format
+msgid "You must select the target markets you will be selling to under %s before you can setup tax rates."
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:126
+msgid "General settings"
+msgstr ""
+
+#: core/ecart/core/ui/settings/taxes.php:130
+msgid "Add a New Tax Rate"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/account.php:18
+msgid "Customer Account"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/account.php:19
+msgid "Account login form &amp; and links to customer area"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/account.php:27
+msgid "Your Account"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/cart.php:18
+msgid "Customer Shopping Cart"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/cart.php:19
+msgid "The customer's shopping cart"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/categories.php:18
+msgid "Store Categories"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/categories.php:19
+msgid "Create a list or dropdown of store categories"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/categories.php:52
+#: core/ecart/core/ui/widgets/section.php:46
+msgid "Show as dropdown"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/categories.php:53
+#: core/ecart/core/ui/widgets/section.php:47
+msgid "Show product counts"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/categories.php:54
+#: core/ecart/core/ui/widgets/section.php:48
+msgid "Show hierarchy"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/categories.php:57
+msgid "Include before custom categories"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/categories.php:57
+msgid "Include after custom categories"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/facetedmenu.php:18
+msgid "Ecart Faceted Menu"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/facetedmenu.php:19
+msgid "Category products drill-down search menu"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/facetedmenu.php:27
+msgid "Product Filters"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:18
+msgid "Ecart Product"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:19
+msgid "Highlight specific store products"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:43
+msgid "From a category"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:43
+msgid "By product"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:46
+msgid "Category Slug/ID"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:47
+msgid "Category ID"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:60
+msgid "Bestselling"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:61
+msgid "Highest Price"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:62
+msgid "Lowest Price"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:63
+msgid "Newest"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:64
+msgid "Oldest"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:65
+msgid "Random"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:70
+msgid "products"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:74
+msgid "Product Slug/ID(s)"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:75
+msgid "Product ID(s)"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/product.php:80
+msgid "Use commas to specify multiple products"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/search.php:18
+msgid "Shopping Search"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/search.php:19
+msgid "A search widget for your store"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/search.php:28
+msgid "Shop Search"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/section.php:18
+msgid "Ecart Category Section"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/section.php:19
+msgid "A list or dropdown of store categories"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/tagcloud.php:18
+msgid "Ecart Tag Cloud"
+msgstr ""
+
+#: core/ecart/core/ui/widgets/tagcloud.php:19
+msgid "Popular product tags in a cloud format"
+msgstr ""
+
+#: core/ecart/gateways/2Checkout/2Checkout.php:127
+msgid "The order submitted to 2Checkout could not be verified."
+msgstr ""
+
+#: core/ecart/gateways/2Checkout/2Checkout.php:132
+msgid "The order submitted by 2Checkout did not specify a transaction ID."
+msgstr ""
+
+#: core/ecart/gateways/2Checkout/2Checkout.php:165
+msgid "Your 2Checkout vendor account number."
+msgstr ""
+
+#: core/ecart/gateways/2Checkout/2Checkout.php:174
+msgid "Copy as the <strong>Approved URL</strong> & <strong>Pending URL</strong> in your 2Checkout Vendor Area under the <strong>Account &rarr; Site Management</strong> settings page."
+msgstr ""
+
+#: core/ecart/gateways/2Checkout/2Checkout.php:180
+msgid "Enable test mode"
+msgstr ""
+
+#: core/ecart/gateways/2Checkout/2Checkout.php:186
+msgid "Single-page, credit card only checkout"
+msgstr ""
+
+#: core/ecart/gateways/2Checkout/2Checkout.php:192
+msgid "Enable order verification"
+msgstr ""
+
+#: core/ecart/gateways/2Checkout/2Checkout.php:199
+msgid "Your 2Checkout secret word for order verification."
+msgstr ""
+
+#: core/ecart/gateways/AuthorizeNet/Authorize.net.php:178
+msgid "Enter your AuthorizeNet Login ID."
+msgstr ""
+
+#: core/ecart/gateways/AuthorizeNet/Authorize.net.php:185
+msgid "Enter your AuthorizeNet Password or Transaction Key."
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:127
+#, php-format
+msgid "There is not sufficient stock on %s to process order."
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:247
+msgid "You will receive an email with download instructions upon receipt of payment."
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:332
+msgid "Shipping Option"
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:643
+msgid "Enter your Google Checkout merchant ID."
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:650
+msgid "Enter your Google Checkout merchant key."
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:660
+msgid "Copy this URL to your Google Checkout integration settings API callback URL."
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:667
+#: core/ecart/gateways/PayPal/PayPalExpress.php:431
+#: core/ecart/gateways/PayPal/PayPalStandard.php:415
+#, php-format
+msgid "Use the %s"
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:678
+msgid "Select the preferred size and style of the Google Checkout button."
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:684
+msgid "Automatically charge orders"
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:690
+msgid "Use Google tax settings"
+msgstr ""
+
+#: core/ecart/gateways/GoogleCheckout/GoogleCheckout.php:696
+msgid "Use Google shipping rate settings"
+msgstr ""
+
+#: core/ecart/gateways/OfflinePayment/OfflinePayment.php:85
+msgid "Manual Payment Instructions"
+msgstr ""
+
+#: core/ecart/gateways/OfflinePayment/OfflinePayment.php:86
+msgid "Use this area to provide your customers with instructions on how to complete the payment."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalExpress.php:200
+#: core/ecart/gateways/PayPal/PayPalExpress.php:218
+#: core/ecart/gateways/PayPal/PayPalExpress.php:322
+msgid "The transaction failed for an unknown reason. PayPal did not provide any indication of why it failed."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalExpress.php:290
+msgid "The location you are purchasing from is outside of our market regions. This transaction cannot be processed."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalExpress.php:316
+msgid "No response was received from PayPal. The order cannot be processed."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalExpress.php:347
+#: core/ecart/gateways/PayPal/PayPalStandard.php:278
+#, php-format
+msgid "An unverifiable order update notification was received from PayPal for transaction: %s. Possible fraudulent notification!  The order will not be updated.  IPN message: %s"
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalExpress.php:411
+msgid "Enter your PayPal API Username."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalExpress.php:418
+msgid "Enter your PayPal API Password."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalExpress.php:425
+msgid "Enter your PayPal API Signature."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalStandard.php:179
+msgid "Shipping & Handling"
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalStandard.php:241
+msgid "The transaction was not verified by PayPal."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalStandard.php:301
+#, php-format
+msgid "No reference to the pending order was available in the PayPal IPN message. Purchase creation failed for transaction %s."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalStandard.php:397
+msgid "Enter your PayPal account email."
+msgstr ""
+
+#: core/ecart/gateways/PayPal/PayPalStandard.php:410
+msgid "PDT identity token for validating orders."
+msgstr ""
+
+#: core/ecart/gateways/TestMode/TestMode.php:48
+msgid "This is an example error message. Disable the 'always show an error' setting to stop displaying this error."
+msgstr ""
+
+#: core/ecart/shipping/core/FlatRates.php:20
+msgid "Flat Rate on order"
+msgstr ""
+
+#: core/ecart/shipping/core/FlatRates.php:21
+msgid "Flat Rate per item"
+msgstr ""
+
+#: core/ecart/shipping/core/FlatRates.php:71
+msgid "Worldwide"
+msgstr ""
+
+#: core/ecart/shipping/core/FreeOption.php:20
+msgid "Free Option"
+msgstr ""
+
+#: core/ecart/storage/core/FSStorage.php:40
+msgid "File system"
+msgstr ""
+
+#: core/ecart/storage/core/FSStorage.php:147
+msgid "The file system path to your storage directory."
+msgstr ""
+
+#: core/ecart/storage/core/FSStorage.php:161
+msgid "The path does not exist."
+msgstr ""
+
+#: core/ecart/storage/core/FSStorage.php:162
+msgid "The path supplied is not a directory."
+msgstr ""
+
+#: core/ecart/storage/core/FSStorage.php:163
+msgid "The path must be <strong>writable</strong> by the web server."
+msgstr ""
+
+#: core/ecart/storage/core/FSStorage.php:164
+msgid "The path must be <strong>readable</strong> by the web server."
+msgstr ""
+
+#: core/ecart/templates/account.php:35
+#: core/ecart/templates/account.php:182
+msgid "Return to the Customer Area"
+msgstr ""
+
+#: core/ecart/templates/account.php:42
+msgid "Your password has been changed successfully."
+msgstr ""
+
+#: core/ecart/templates/account.php:47
+msgid "Your account has been updated."
+msgstr ""
+
+#: core/ecart/templates/account.php:58
+msgid "Your Account Details"
+msgstr ""
+
+#: core/ecart/templates/account.php:70
+msgid "Change Your Password"
+msgstr ""
+
+#: core/ecart/templates/account.php:72
+msgid "Your New Password"
+msgstr ""
+
+#: core/ecart/templates/account.php:73
+msgid "New Password"
+msgstr ""
+
+#: core/ecart/templates/account.php:75
+msgid "Confirm Your New Password"
+msgstr ""
+
+#: core/ecart/templates/account.php:76
+#: core/ecart/templates/checkout.php:46
+msgid "Confirm Password"
+msgstr ""
+
+#: core/ecart/templates/account.php:83
+msgid "Company Name (if applicable)"
+msgstr ""
+
+#: core/ecart/templates/account.php:86
+msgid "Phone Number"
+msgstr ""
+
+#: core/ecart/templates/account.php:100
+msgid "Update My Profile"
+msgstr ""
+
+#: core/ecart/templates/account.php:109
+#: core/ecart/templates/account.php:142
+#: core/ecart/templates/account.php:171
+#: core/ecart/templates/account.php:175
+msgid "Return to Account Management"
+msgstr ""
+
+#: core/ecart/templates/account.php:122
+msgid "Download File"
+msgstr ""
+
+#: core/ecart/templates/account.php:131
+msgid "You have no digital product downloads available."
+msgstr ""
+
+#: core/ecart/templates/account.php:165
+msgid "You have no orders, yet."
+msgstr ""
+
+#: core/ecart/templates/cart.php:16
+#: core/ecart/templates/cart.php:113
+msgid "Continue Shopping"
+msgstr ""
+
+#: core/ecart/templates/cart.php:55
+msgid "Estimate shipping &amp; taxes for:"
+msgstr ""
+
+#: core/ecart/templates/cart.php:58
+msgid "Please choose your country :"
+msgstr ""
+
+#: core/ecart/templates/cart.php:67
+msgid "Coupons &amp; Promotions"
+msgstr ""
+
+#: core/ecart/templates/cart.php:70
+msgid "Coupon Code :"
+msgstr ""
+
+#: core/ecart/templates/cart.php:81
+msgid "Shopping Cart Summary"
+msgstr ""
+
+#: core/ecart/templates/cart.php:84
+msgid "Subtotal :"
+msgstr ""
+
+#: core/ecart/templates/cart.php:87
+msgid "Discount :"
+msgstr ""
+
+#: core/ecart/templates/cart.php:91
+msgid "Shipping :"
+msgstr ""
+
+#: core/ecart/templates/cart.php:95
+msgid "Taxes :"
+msgstr ""
+
+#: core/ecart/templates/cart.php:112
+msgid "There are currently no items in your shopping cart."
+msgstr ""
+
+#: core/ecart/templates/category.php:87
+msgid "Ops Something Went Wrong....."
+msgstr ""
+
+#: core/ecart/templates/category.php:88
+msgid "No products were found."
+msgstr ""
+
+#: core/ecart/templates/checkout.php:21
+msgid "Login to Your Account"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:23
+#: core/ecart/templates/checkout.php:43
+#: core/ecart/templates/checkout.php:44
+msgid "Password"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:29
+msgid "Contact Information"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:32
+msgid "Company/Organization"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:32
+msgid "Company Organization"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:45
+msgid "Password Confirmation"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:57
+msgid "Billing street address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:61
+msgid "Billing address line 2"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:62
+#: core/ecart/templates/checkout.php:91
+msgid "Address Line 2"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:65
+msgid "City billing address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:69
+msgid "State/Provice/Region billing address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:73
+msgid "Postal/Zip Code billing address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:74
+#: core/ecart/templates/checkout.php:103
+msgid "Postal / Zip Code"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:77
+msgid "Country billing address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:86
+msgid "Shipping street address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:90
+msgid "Shipping address line 2"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:94
+msgid "City shipping address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:98
+msgid "State/Provice/Region shipping address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:102
+msgid "Postal/Zip Code shipping address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:106
+msgid "Country shipping address"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:117
+msgid "Local Jurisdiction"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:124
+msgid "Payment Information"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:130
+msgid "Credit/Debit Card Number"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:131
+msgid "Card's 2-digit expiration month"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:131
+msgid "MM"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:132
+msgid "Card's 2-digit expiration year"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:132
+msgid "YY"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:133
+msgid "Card Type"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:136
+msgid "Card Holder's Name"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:136
+msgid "Name on Card"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:137
+msgid "Card's security code (3-4 digits on the back of the card)"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:137
+msgid "Security ID"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:141
+msgid "Card's start date (MM/YY)"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:141
+msgid "Start Date"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:142
+msgid "Card's issue number"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:142
+msgid "Issue #"
+msgstr ""
+
+#: core/ecart/templates/checkout.php:151
+#: core/ecart/templates/confirm.php:17
+msgid "Confirm This Order"
+msgstr ""
+
+#: core/ecart/templates/errors.php:14
+msgid "Errors"
+msgstr ""
+
+#: core/ecart/templates/login.php:22
+msgid "Recover your password"
+msgstr ""
+
+#: core/ecart/templates/login.php:37
+msgid "Account Login"
+msgstr ""
+
+#: core/ecart/templates/notify.php:41
+msgid "Order Update"
+msgstr ""
+
+#: core/ecart/templates/notify.php:47
+msgid "Your order is"
+msgstr ""
+
+#: core/ecart/templates/product.php:58
+msgid "Free Shipping Available on this product!"
+msgstr ""
+
+#: core/ecart/templates/product.php:69
+#: core/ecart/templates/product.php:72
+msgid "Product Price : "
+msgstr ""
+
+#: core/ecart/templates/product.php:70
+msgid "New Sale Price : "
+msgstr ""
+
+#: core/ecart/templates/product.php:99
+msgid "Product Not Found"
+msgstr ""
+
+#: core/ecart/templates/product.php:100
+msgid "Sorry! The product you requested is not found in our catalog!"
+msgstr ""
+
+#: core/ecart/templates/receipt.php:5
+msgid "Your Order ID:"
+msgstr ""
+
+#: core/ecart/templates/receipt.php:6
+msgid "Order Date:"
+msgstr ""
+
+#: core/ecart/templates/receipt.php:7
+msgid "Order Billed To: "
+msgstr ""
+
+#: core/ecart/templates/receipt.php:8
+msgid "Transaction Info: "
+msgstr ""
+
+#: core/ecart/templates/receipt.php:16
+msgid "Order Summary"
+msgstr ""
+
+#: core/ecart/templates/receipt.php:48
+#: core/ecart/templates/receipt.php:71
+msgid "Order Billing Address"
+msgstr ""
+
+#: core/ecart/templates/receipt.php:80
+msgid "Shipping:"
+msgstr ""
+
+#: core/ecart/templates/sidecart.php:20
+msgid "View Your Shopping Cart"
+msgstr ""
+
+#: core/ecart/templates/sidecart.php:26
+msgid "Currently your shopping cart is empty."
+msgstr ""
+
+#: core/ecart/templates/summary.php:17
+msgid "Back To Your Shopping Cart"
+msgstr ""
+
+#: core/ecart/templates/summary.php:58
+msgid "Estimated Delivery: "
+msgstr ""
+
+#: core/ecart/templates/thanks.php:13
+msgid "Thank you for your order!"
+msgstr ""
+
+#: core/ecart/templates/thanks.php:18
+msgid "Your order has been received but the payment has not yet completed processing."
+msgstr ""
+
+#: core/ecart/templates/thanks.php:25
+msgid "The download links on your order receipt will not work until the payment is received."
+msgstr ""
+
+#: core/ecart/templates/thanks.php:29
+msgid "Your items will not ship out until the payment is received."
+msgstr ""
+
+#: core/ecart/templates/thanks.php:37
+msgid "An email was sent with account login information to the email address provided for your order."
+msgstr ""
+
+#: core/ecart/templates/thanks.php:37
+msgid "Login to your account"
+msgstr ""
+
+#: core/ecart/templates/thanks.php:37
+msgid "to access your orders, change your password and manage your checkout information."
+msgstr ""
+
+#: core/ecart/templates/thanks.php:42
+msgid "Your order is still in progress and has not yet been received from the payment processor. You will receive an email notification when your payment has been verified and the order has been completed."
+msgstr ""
+
+#: core/library/actions.admin.php:25
+msgid "<div class=\"config-error\"><h2>PHP Version Problem</h2>Looks like you are using PHP version: <strong>"
+msgstr ""
+
+#: core/library/class-megamenu.php:291
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: core/library/class-megamenu.php:313
+msgid "Menu Column"
+msgstr ""
+
+#: core/library/class-megamenu.php:314
+msgid "(Mega Menu Enabled)"
+msgstr ""
+
+#: core/library/class-megamenu.php:342
+#: core/library/class-megamenu.php:344
+msgid "Edit Menu Item"
+msgstr ""
+
+#: core/library/class-megamenu.php:353
+msgid "URL"
+msgstr ""
+
+#: core/library/class-megamenu.php:360
+msgid "Navigation Label"
+msgstr ""
+
+#: core/library/class-megamenu.php:361
+msgid "Mega Menu Column Title <span class=\"epanel_supersmall\">(if you dont want to display a title just enter a single dash: \"-\" )</span>"
+msgstr ""
+
+#: core/library/class-megamenu.php:369
+msgid "Title Attribute"
+msgstr ""
+
+#: core/library/class-megamenu.php:375
+msgid "Link Target"
+msgstr ""
+
+#: core/library/class-megamenu.php:377
+msgid "Same window or tab"
+msgstr ""
+
+#: core/library/class-megamenu.php:378
+msgid "New window or tab"
+msgstr ""
+
+#: core/library/class-megamenu.php:384
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: core/library/class-megamenu.php:390
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: core/library/class-megamenu.php:396
+msgid "Description"
+msgstr ""
+
+#: core/library/class-megamenu.php:460
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: core/library/class.options.meta.php:127
+#: core/library/class.options.meta.php:180
+#: core/library/class.options.metapanel.php:278
+#: core/library/class.options.metapanel.php:317
+#: core/library/class.options.ui.php:671
+msgid "SELECT"
+msgstr ""
+
+#: core/library/class.options.meta.php:198
+msgid "Update Options"
+msgstr ""
+
+#: core/library/class.options.metapanel.php:166
+msgid "Save Meta Settings"
+msgstr ""
+
+#: core/library/class.options.ui.php:155
+#: core/library/class.options.ui.php:1165
+msgid "Save Theme Settings"
+msgstr ""
+
+#: core/library/class.options.ui.php:677
+msgid "No sets have been created and added to a post yet!"
+msgstr ""
+
+#: core/library/class.options.ui.php:1185
+msgid "Export Theme Settings"
+msgstr ""
+
+#: core/library/class.options.ui.php:1192
+msgid "Import Theme Settings"
+msgstr ""
+
+#: core/library/class.types.php:56
+#: core/library/class.types.php:57
+msgid "Add New "
+msgstr ""
+
+#: core/library/class.types.php:58
+#: core/library/class.types.php:59
+msgid "Edit "
+msgstr ""
+
+#: core/library/class.types.php:60
+#: core/library/class.types.php:61
+msgid "View "
+msgstr ""
+
+#: core/library/library.functions.php:470
+msgid "<span class=\"you\">You Are Here : </span>"
+msgstr ""
+
+#: core/library/library.functions.php:552
+msgid " Page"
+msgstr ""
+
+#: core/library/library.register.form.php:12
+msgid "Account Informations"
+msgstr ""
+
+#: core/library/library.register.form.php:69
+msgid "Account Billing Address Informations"
+msgstr ""
+
+#: core/library/library.register.form.php:108
+msgid "Register Now"
+msgstr ""
+
+#: core/library/library.templates.php:134
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: core/library/library.templates.php:263
+#: core/library/library.templates.php:273
+msgid "On"
+msgstr ""
+
+#: core/library/library.templates.php:264
+#: core/library/library.templates.php:269
+msgid "By"
+msgstr ""
+
+#: core/library/library.templates.php:281
+msgid "In"
+msgstr ""
+
+#: core/library/library.templates.php:425
+msgid "EP Main Navigation"
+msgstr ""
+
+#: core/library/library.templates.php:426
+msgid "EP Bottom Footer Right Navigation"
+msgstr ""
+
+#: core/library/library.templates.php:427
+msgid "EP Bottom Footer Left Navigation"
+msgstr ""
+
+#: functions/tinymce/window_page.php:6
+#: functions/tinymce/window_post.php:6
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: functions/tinymce/window_page.php:45
+#: functions/tinymce/window_page.php:83
+#: functions/tinymce/window_post.php:45
+#: functions/tinymce/window_post.php:83
+msgid "Select Shortcodes"
+msgstr ""
+

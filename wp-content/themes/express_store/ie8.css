@@ -1,0 +1,31 @@
+/* IE 8 FIX */
+
+#wrapper {
+	border:1px solid #dfdfdf !important;
+	border-top: none !important;
+}
+
+#singular-product {
+	margin-left: 99px !important;
+}
+
+div.purchase-fields input[type=text] {
+	top:-37px !important; 
+}
+
+#thumbs-list {
+	width:280px !important;
+	padding-left: 0px !important;
+}
+
+#thumbs-list li {
+	margin-right: 3px !important;
+}
+
+div#shipping-container .alignright {font-size: 10px;
+	display: block !important;
+	position: static !important;
+	float: none !important;
+}
+
+#last-ship-col {margin-left: -2px !important;}

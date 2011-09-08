@@ -1,0 +1,126 @@
+/*   
+Theme Name: Express Store
+Theme URI: http://enovastudio.org
+Description: Express Store turns your default wordpress website into a plugin free fully functional online store. Whether you’re a Wordpress Pro or just starting out anyone can use this theme and you don’t have to touch a single line of code.
+Author: Alessandro Tesoro (EnovaStudio)
+Author URI: http://enovastudio.org
+Version: 1.4.1
+*/
+
+
+/*
+
+Template Main Settings File.
+
+*/
+
+/******************************************************************
+	Css global reset
+******************************************************************/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*additional theme required code */
+
+.sf-menu .current-menu-item > a {
+       color: #000 !important;
+}
+
+/*additional theme required code */
+
+.current-menu-item a {
+       color: #000 !important;
+}
+.gallery-caption {
+	margin-left: 0px;
+}
+ .bypostauthor{}
+
+.wp-caption { padding: 1px; text-align:center; border: 1px solid #bfd4d9; background:#fff; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.wp-caption img{ margin:0; padding:4px 0; background:none; border:0; }
+.wp-caption-text { margin:0; padding:0; font:0.9em/1.5em sans-serif; text-align:center; }
+.wp-caption.aligncenter { margin:0 auto 15px; }
+
+/* update 1.2 */
+
+#related-wrapper ul li {
+	width: 182px;
+}
+
+#related-wrapper ul li p a {
+	text-align: center;
+	color: #7193B2 !important;
+}
+
+#related-wrapper ul li p {
+	width: 170px !important;
+	text-align: center !important;
+}
+
+#related-slider {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+/* update 1.3 */
+
+li.sbg_widget{list-style: none !important;}
+
+.sbg_widget {
+	margin-bottom: 30px;
+}
+
+/* update 1.4 */
+
+dl.details dt, dl.details dd {
+	margin-bottom: 10px;
+}

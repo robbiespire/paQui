@@ -1,0 +1,134 @@
+/**
+ * catalog.css
+ *
+ * The catalog CSS file provides core styling used to initialize foundational
+ * elements of the Ecart catalog layout.
+ *
+ * DO NOT EDIT! Setup custom theme tempaltes and edit ecart.css to override
+ * styles here as necessary.
+ *
+ **/
+#ecart div.description,
+#ecart .products,
+#ecart .products ul,
+#ecart .products li.row,
+#ecart .category,
+#ecart #cart,
+#ecart #cart table { overflow: hidden; }
+
+#ecart { position: relative; }
+#ecart ul { list-style: none; text-indent: 0; text-align: left; padding: 0; margin: 0; }
+#ecart li { background: none !important; padding: 0; margin: 0; }
+#ecart li:before,
+#ecart-cart:before,
+#ecart-cart ul li:before,
+#ecart-cart #ecart-cart-ajax ul li:before,
+#ecart ul.breadcrumb li:before { content: ""; }
+#ecart div.hidden,
+#ecart select.hidden { display: none; }
+
+
+#ecart .frame { border: none; }
+
+#ecart .products, #ecart .products ul { width: 100%; margin: 0; padding: 0;}
+#ecart .products ul li { display: block; float: left; border: none; }
+#ecart .products li.row { display: block; width: 100%; }
+#ecart .products .frame { text-align: center; overflow: hidden; }
+#ecart .products .frame img { display: inline; }
+
+#ecart ul.paging { clear: none; display: inline; }
+#ecart ul.paging li { display: inline; margin-left: 5px;}
+
+/* Ecart Forms */
+#ecart #checkout,
+#ecart #checkout > ul,
+#ecart #checkout > ul ul,
+#ecart #checkout > ul li { margin: 0; padding: 0; }
+#ecart form ul { width: 100%; overflow: hidden; line-height: 1; }
+#ecart form ul li { text-indent: 0; clear: both; display: block; padding: 4px 0; margin: 0; }
+#ecart form label { clear: both; display: block; }
+#ecart form ul li label.inline { display: inline; clear: none; }
+#ecart form ul li:before { content: ""; }
+#ecart form ul li div.inline { width: auto; clear: both; }
+#ecart form ul li div.inline input { width: auto;  }
+#ecart form ul li div.inline label { clear: none; display: inline; }
+#ecart form ul li input,
+#ecart form ul li select { margin: 0 0 5px 0; }
+#ecart form ul li div input,
+#ecart form ul li div select { width: 100%; }
+#ecart form ul li div.left { display: inline; width: 47%; float: left; margin: 0; clear: left; }
+#ecart form ul li div.right { display: inline; width: 47%; float: right; margin: 0; clear: right; }
+#ecart form ul li.half { display: inline; width: 47%; float: left; clear: none; }
+#ecart form ul li.half.right { display: inline; float: right; }
+#ecart form ul li span { float: left; padding: 0 5px 0 0; display: inline-block; text-align: left; }
+
+/* Workaround for IE to hide the cart's 'default button' but keep it active */
+#hidden-update { position: absolute; left: -999em; }
+
+/** Ecart Catalog Tag Cloud **/
+#ecart .tagcloud,
+.ecart.tagcloud { padding: 0; width: 100%; }
+#ecart .tagcloud li,
+.ecart.tagcloud li { display: inline; margin-right: 10px; line-height: 1.2; padding: 0; background-image: none; }
+.ecart.tagcloud li.level-1 { font-size: 30px; }
+.ecart.tagcloud li.level-2 { font-size: 24px; }
+.ecart.tagcloud li.level-3 { font-size: 20px; }
+.ecart.tagcloud li.level-4 { font-size: 18px; }
+.ecart.tagcloud li.level-5 { font-size: 14px; }
+.ecart.tagcloud li.level-6 { font-size: 12px; }
+.ecart.tagcloud li.level-7 { font-size: 11px; }
+
+/** Categories **/
+#ecart .category { position: relative; }
+.content #ecart .views li,
+#ecart .views li { display: inline; margin: 0; padding: 0; }
+
+#ecart .views .grid { width: 15px; height: 15px; background: url('../../../core/ui/icons/grid.png') no-repeat 50% 50%; }
+#ecart .views .list { width: 15px; height: 15px; background: url('../../../core/ui/icons/list.png') no-repeat 50% 50%; }
+
+#ecart .category ul { margin: 0; padding: 0; }
+#ecart.catalog .category .products li,
+#ecart.category .category .products li,
+#ecart.catalog .carousel .frame li { margin: 0; padding: 0; }
+
+#ecart.catalog .listview form { margin: 0; padding: 0; }
+
+
+/** Product Page Gallery **/
+#ecart form.product label { clear: none; display: inline; }
+
+#ecart .gallery { float: left; display: block; }
+#ecart .gallery ul { display: block; margin: 0; padding: 0 !important; position: relative; list-style: none !important; text-indent: 0; width: auto; }
+#ecart .gallery ul li:before { content: ""; }
+#ecart .gallery li a { margin: 0; padding: 0; float: none; }
+#ecart .gallery .previews { position: relative;  margin: 0 !important; overflow: hidden; }
+#ecart .gallery .previews li { position: absolute; visibility: hidden; top: 0; left: 0; margin: 0; display: block; text-align: center; }
+#ecart .gallery .previews li.fill { position: relative; }
+#ecart .gallery .previews li.fill img { margin: 0; padding: 0; }
+#ecart .gallery .previews li.active { visibility: visible; }
+#ecart .gallery .thumbnails { margin-top: 10px; overflow: hidden; text-align: justify; display: block; }
+#ecart .gallery .thumbnails ul { padding: 0; }
+#ecart .gallery .thumbnails li { position: relative; display: inline; visibility: visible; height: auto; top: auto; left: auto; }
+#ecart .gallery .thumbnails li.first { margin-left: 0; }
+#ecart .gallery .thumbnails li img { cursor: pointer; display: inline; }
+
+/** Category Slideshow **/
+#ecart .slideshow { position: relative; margin: 0; clear: both; width: 100%; overflow: auto; }
+#ecart .slideshow li { position: absolute; top: 0; left: 0; margin: 0; display: block; text-align: center; visibility: hidden; }
+#ecart .slideshow li.clear { position: relative; clear: both; visibility: visible; }
+#ecart .slideshow li.clear:after { clear: both; }
+
+/** Category Carousel **/
+#ecart .carousel { position: relative; margin: 0; clear: both; width: 100%; }
+#ecart .carousel .frame { position: relative; margin: 0 20px; overflow: hidden; }
+#ecart .carousel ul { position: relative; width: 999em; }
+#ecart.catalog .carousel li { display: inline-block; vertical-align: middle;}
+#ecart .carousel button { position: absolute; bottom: 50%; cursor: pointer; border: none; width: 14px; height: 14px; background-image: url('../../../core/ui/icons/carousel.png'); background-repeat: no-repeat; background-color: transparent; }
+#ecart .carousel button.left { left: 0; }
+#ecart .carousel button.right { right: 0; background-position: -16px 0; }
+#ecart .carousel button.left:hover { background-position: 0 -16px; }
+#ecart .carousel button.right:hover { background-position: -16px -16px; }
+
+/** Twenty-Ten Fixes **/
+#ecart h1,#ecart h2,#ecart h3,#ecart h4,#ecart h5,#ecart h6 { clear: none; }
+#ecart form table, #ecart form table td { border: none; }

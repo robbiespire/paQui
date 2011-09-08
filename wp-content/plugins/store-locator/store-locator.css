@@ -1,0 +1,186 @@
+/***** Area Above Map DIV. Contains Search Form Inputs *****/
+.sl_header img, .sl_header td, .sl_header #addressSubmit {
+border: none;
+min-width:0px !important;
+}
+.sl_header td {
+	vertical-align:top;
+	text-align:left;
+}
+.sl_header td, .sl_header th, .sl_header tr {
+	padding:4px;
+}
+.sl_header input {
+	margin:0px;
+}
+.sl_header img {
+	background: transparent;
+} 
+
+/***** Search Form Inputs  *****/
+/*#search_label {
+	whitespace:nowrap;
+}*/
+#addressInput {
+	width:100%; /*height:18px;*/
+	/*font-weight:bold;*/
+	margin:0px;
+	padding-top:0px;
+	padding-bottom: 0px !important;
+}
+#addressInput2_container {
+	vertical-align:top;
+}
+#addressInput2 {
+ /* */
+}
+#addressSubmit {	
+	/*width:184px; height:31px;*/
+}
+#radius_label {
+	vertical-align:top;
+}
+#radiusSelect_td {
+	width:33%;
+	vertical-align:top;
+}
+#radiusSelect { 
+	/*height:27px; width:100px;*/
+}
+#addressInput, #addressSubmit, #radiusSelect { 
+	font-size:14px !important;
+}
+
+/***** Store Locator Map DIV *****/
+#sl_div {
+	/*background-image:url(bg.jpg);*/
+	/*background-repeat:repeat-x;*/
+	padding:10px;
+	/*color:black;*/
+	font-weight:bold;
+}
+#sl_div a {
+	/*color:black;
+	text-decoration:underline;*/
+}
+#sl_div a.storelocatorlink {
+	color:blue;
+}
+#sl_div img {
+	background-color:transparent;
+	background-image:none;
+	max-width:none; 
+}
+#sl_div table, #sl_div tr, #sl_div td {
+	border:none;
+	/*padding:0px;*/
+}
+#sl_div #map { 
+	color:black; 
+	font-weight:normal;
+	overflow:hidden;
+}
+
+/***** Popup Info Window for Specific Location *****/
+#sl_info_bubble { 
+	padding:10px; 
+	max-width:300px; 
+	/*max-height:400px; */ 
+	font-size:11px; 
+	font-family:Arial;
+	text-align:justify;
+	line-height:normal;
+}
+#sl_info_bubble img{
+	width:250px; 
+	max-height:200px;
+	border:0px;
+}
+#sl_info_bubble .your_location_label{
+	font-weight:bold;
+}
+#sl_info_bubble .location_detail_label{
+	font-weight:bold;
+}
+
+/***** Area Below Map DIV, before Search Results Area *****/
+.sl_footer td, .sl_footer td a, .sl_footer td a:link, .sl_footer td a:hover, .sl_footer td a:active, .sl_footer td a:visited {
+	font-weight:normal;
+	font-size:10px;
+}
+.sl_footer {
+	background-color:black;
+	padding:0px;
+	border:0px black solid;
+	color: #222;
+}
+.sl_footer a {
+	color:#666;
+	font-weight:bold;
+	border:0px black solid;
+	padding-left:5px;
+}
+.sl_footer_right_column {
+	padding-right:5px;
+	text-align:right;
+}
+.sl_footer_left_column {
+	text-align:left;
+}
+
+/*****Search Results Area *****/
+.searchResultsTable td {
+	line-height:12px;
+	font-family: Verdana;
+	font-size:10px;
+	text-align:left;
+}
+.text_below_map {
+	/*shown before search performed */
+	font-family:Arial;
+	padding:20px;
+	font-size:18px;
+	text-align:justified;
+}
+.no_results_found {
+	/*shown if no results found */
+	padding:10px;
+}
+#map_sidebar { 
+	/*shown for results found for specific query */
+	background-color:transparent;
+	font-weight:normal;
+	text-align:justify;
+	overflow: auto;
+	height:250px;
+	font-size: 11px;
+	/*color: #000;*/
+}
+.results_entry {
+	cursor:pointer;
+	cursor:hand;
+	padding:4px;
+	border-bottom:solid silver 1px;
+	background-color:transparent;
+}
+.results_entry:hover {
+	/*hover color of search result*/
+	background-color:salmon;
+}
+.results_row_left_column {
+	width:30%;
+	padding-right:4px;
+	vertical-align:top;
+}
+.results_row_left_column .location_name {
+	font-weight:bold;
+}
+.results_row_center_column {
+	width:40%;
+	vertical-align:top;
+}
+.results_row_right_column {
+	width:30%;
+	vertical-align:top;
+	text-align:right;
+}

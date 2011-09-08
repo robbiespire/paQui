@@ -1,0 +1,25 @@
+/* Firefox Fixes */
+
+body.firefox #singular-product {
+	margin-left: 99px;
+}
+
+body.firefox input[type=button].addtocart.ajax {
+	top: -25px;
+}
+
+body.firefox div#shipping-container .alignright, body.opera div#shipping-container .alignright, body.safari div#shipping-container .alignright {
+	font-size: 11px !important;
+}
+
+/* Opera fix */
+
+body.opera #scroller-wrapper.container {
+	width: 980px !important;
+	display: block !important;
+	height: 180px !important;
+}
+
+.contact-area input[type=text] {
+	border:2px solid #d6d6d6 !important;
+}

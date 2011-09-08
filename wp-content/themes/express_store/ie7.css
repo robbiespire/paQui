@@ -1,0 +1,74 @@
+/* IE 7 FIX */
+
+#header-container {margin-top: 30px !important;}
+
+#main-menu-wrapper {
+	margin-top: 28px !important;
+}
+
+#wrapper {
+	border:1px solid #dfdfdf !important;
+	border-top: none !important;
+	display: block !important;
+}
+
+#singular-product {
+	margin-left: 99px !important;
+}
+
+div.purchase-fields input[type=text] {
+	top:-3px !important; 
+	margin-left: 10px !important;
+	left: 5px;
+}
+
+#thumbs-list {
+	width:280px !important;
+	padding-left: 0px !important;
+}
+
+#thumbs-list li {
+	margin-right: 3px !important;
+}
+
+div#shipping-container .alignright {font-size: 10px;
+	display: block !important;
+	position: static !important;
+	float: none !important;
+}
+
+#last-ship-col {margin-left: -2px !important;}
+
+#footer-inner {padding-bottom: 0px !important;}
+
+#header .container {
+	z-index:900;
+}
+
+.sf-menu {z-index: 550;}
+ul.sub-menu {z-index: 500;}
+
+#sidebar form#login {
+	margin-bottom:120px !important;
+}
+
+#breadcumb {display: none !important;}
+
+.inner-form ul {
+	position: absolute;
+	margin-top: -20px !important;
+	margin-left: 0px !important;
+}
+
+.inner-form-coupon ul {
+	position: absolute;
+	margin-top: -20px !important;
+	margin-left: 10px !important;
+}
+
+#total-form p span{
+	float: right;
+	font-weight: bold;
+	margin-top: -12px;
+	margin-right: 10px;
+}

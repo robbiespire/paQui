@@ -1,0 +1,167 @@
+/**
+ * ecart.css
+ * Generic layout & styles for Ecart pages
+ *
+ * @package ecart
+ **/
+
+/* Generic Ecart Styles */
+
+#ecart .submit { text-align: right; }
+#ecart form { text-align: left; }
+#ecart form.product ul.options { list-style: none; }
+#ecart form ul { line-height: 1; }
+#ecart form label { font-size: 14px; font-weight: bold; padding-bottom: 3px; }
+#ecart form ul li span label,
+#ecart form div label { font-size: 11px; font-weight: normal; padding-bottom: 8px; }
+
+/**
+ * Catalog/Category
+ **/
+
+.categories ul li a.current { font-weight: bold; }
+#ecart .category { position: relative; }
+#ecart .views { display: inline; position: absolute; right: 0; top: 0; }
+#ecart .views button { border: 1px solid transparent; background: none; cursor: pointer; padding: 2px; margin-bottom: -3px; }
+#ecart .views button.hover { background-color: #ebebeb; border: 1px solid #777; }
+#ecart .views li { display: inline; }
+#ecart .orderby { float: right; }
+
+#ecart .category .subcategories { padding: 10px 0; margin-bottom: 10px; }
+#ecart .category .subcategories ul { padding: 10px 0 0 20px; margin-bottom: 10px; }
+#ecart .category .subcategories li { display: inline-block; margin-right: 20px; vertical-align: top; }
+
+#ecart .slideshow,
+#ecart .carousel { margin: 20px 0; overflow: hidden; }
+
+/* Each product in a category has a containing frame */
+#ecart ul.products li.product div.frame { padding: 10px; }
+
+#ecart ul.products li .name,
+#ecart ul.products li .summary,
+#ecart ul.products li .savings,
+#ecart ul.products li .price { margin-top: 0; margin-bottom: 0; }
+#ecart ul.products li .details { float: none; }
+
+/* Hide the product summary in the grid view */
+#ecart ul.products li .summary { display: none; }
+#ecart ul.products li .listview { display: none; }
+
+#ecart ul.products img { display: block; }
+
+#ecart .price { font-weight: bold; line-height: 1.5; margin: 0; }
+#ecart .original { text-decoration: line-through; }
+#ecart .sale { font-size: 150%; }
+
+/* Faceted menu cancel filter link styles */
+.filters a.cancel:before { content: "["; }
+.filters a.cancel { font-weight: bold; }
+.filters a.cancel:after { content: "]"; }
+.filters a.cancel:hover { text-decoration: none; }
+
+/* Product List View */
+#ecart.list ul.products li { float: none; width: 100%; overflow: hidden; padding-bottom: 10px;}
+#ecart.list ul.products li.product {  border-bottom: 1px solid #ddd; }
+#ecart.list ul.products li div.frame { width: 100%; text-align: left; }
+#ecart.list ul.products li img { float: left; margin-right: 10px; }
+#ecart.list ul.products li .details { float: left; width: 65%; }
+#ecart.list ul.products li .listview { display: block; }
+
+#ecart ul.breadcrumb { margin: 10px 0; }
+#ecart ul.breadcrumb li { background: none; padding: 0; display: inline; margin-left: 0; text-indent: 0; }
+
+#ecart ul.categories { float: left; margin-right: 20px; }
+
+/* Category Pagination */
+#ecart ul.paging { /* placeholder for your styles - inherited defaults: clear: none; display: inline-block; */ }
+#ecart ul.paging li { /* placeholder for your styles - inherited defaults: display: inline-block; margin-left: 5px; */ }
+#ecart ul.paging li a { /* page links default styling */ }
+#ecart ul.paging li a:hover { /* page links hover styling */ }
+#ecart ul.paging li.active { /* currrent page style */ }
+#ecart ul.paging li.disabled { /* style for disabled previous/next links */ }
+#ecart ul.paging li.previous a,
+#ecart ul.paging li.next a { /* previous/next link style */ }
+
+/**
+ * Product Pages
+ **/
+#ecart .column { float: left; }
+#ecart .column.first { width: 65%; }
+#ecart .column.second { float: right; width: 35%; }
+
+#ecart .original { text-decoration: line-through; }
+#ecart form.product ul,
+#ecart form.product ul li,
+#ecart form.product ul li label { clear: none; }
+#ecart form.product ul { width: auto; }
+#ecart ul.variations label { display: block; }
+#ecart dl { overflow: hidden; }
+#ecart dl dt { font-weight: bold; float: left; margin-right: 10px; clear: left;  }
+#ecart dl dd { display: block; clear: right; }
+
+#ecart .gallery { margin: 5px 10px 5px 0; }
+#ecart .gallery ul.previews li.thumbnails ul { margin: 10px 0 10px 0; }
+#ecart .gallery ul.previews li.thumbnails li { margin: 0 5px 0 0; }
+
+/**
+ * Category List Widget
+ **/
+ul.ecart_categories { /* category list container */ }
+ul.ecart_categories li { /* category listing containers */ }
+ul.ecart_categories li a { /* category link default styles */ }
+ul.ecart_categories li a:hover { /* category link hover styles */ }
+ul.ecart_categories li span { /* categpry product count styles */ }
+ul.ecart_categories li.current { /* currently viewed category container */ }
+ul.ecart_categories li.current a { /* currently viewed category link style */ }
+ul.ecart_categories li.current a:hover { /* currently viewed category link hover style */ }
+ul.ecart_categories li ul.children { /* sub-category list container */ }
+ul.ecart_categories li ul.children li { /* sub-category listing container */ }
+ul.ecart_categories li ul.active { /* active sub-category container */ }
+
+/* Collapsed sub-category menus example
+ul.ecart_categories li ul.children { display: none; }
+ul.ecart_categories li ul.active { display: block; }
+*/
+
+/**
+ * Side Products Widget
+ **/
+.sideproduct { margin-top: 20px; }
+.sideproduct h3 { margin-top: 0; }
+
+/**
+ * Ecarting Cart
+ **/
+#ecart #cart { width: 100%; }
+#ecart #cart table { padding: 10px 0; width: 100%; }
+#ecart #cart th { text-align: left; font-weight: bold; }
+#ecart #cart th, #ecart #cart td { padding: 3px; }
+#ecart #cart .item { width: 50%; }
+#ecart #cart .money,
+#ecart #cart .totals th,
+#ecart #cart .buttons td { text-align: right; white-space: nowrap; }
+#ecart #cart .totals.total th,
+#ecart #cart .totals.total td { font-size: 130%; }
+#ecart #cart .remove { font-size: 9px; }
+
+#ecart #cart address { font-style: normal; }
+#ecart #cart big { display: block; margin: 10px 0; }
+#ecart #cart big a.right { float: right; }
+
+/**
+ * Ecarting Cart Widget
+ **/
+#ecart-cart.widget p.status { margin-bottom: 10px; }
+
+#ecart ul.account li { display: inline-block; width: 200px; padding-top: 18px; }
+
+/**
+ * Checkout
+ **/
+#ecart #shipping-methods { padding-left: 30px; }
+#ecart #shipping-methods li { margin-top: 5px; }
+#ecart #shipping-methods input { margin-left: -16px; }
+
+#ecart #errors { color: #990000; }
+#ecart input.error { border:1px solid red; }
+#ecart label.error { color: #990000; }

@@ -1,0 +1,73 @@
+.tableRowHeader,.tableRowHeader td,.tableRowHeader th {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+}
+
+.tableRowHeader  td a,.tableRowHeader  th a,.widefat thead td a,.widefat thead th a
+	{
+	color: #00aa00;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.widefat,.widefat thead td a,.widefat thead th a,.widefat td,.widefat th
+	{
+	font-size: 12px;
+}
+
+.widefat td td, .widefat td, .widefat th {
+	border-bottom: none;
+}
+
+.widefat thead,.widefat thead tr {
+	background-color: #464646;
+	background-image: none;
+	color: white;
+}
+
+.highlight {
+	background-color: lightYellow;
+	border: solid gold 1px;
+	padding: 7px;
+	color: #000;
+}
+
+.sl_footer td a,.sl_footer td a:link,.sl_footer td a:hover,.sl_footer td a:active,.sl_footer td a:visited
+	{
+	font-weight: normal;
+	font-size: 8px;
+}
+
+div.feedburnerFeedBlock ul  , .sl_product_rss {
+	margin-left: 0;
+	padding-left: 0;
+	list-style-type: none
+}
+
+div.feedburnerFeedBlock ul li span.headline {
+	font-weight: bold;
+	display: block;
+	margin: 12px 0 0 0;
+}
+
+/*div.feedburnerFeedBlock { 
+border:2px solid #ddd; 
+background-color:#ffe; 
+padding:12px; 
+}*/
+div.feedburnerFeedBlock ul li span.headline {
+	font-weight: bold;
+}
+.map_designer_section td {
+	border-bottom:none;
+}
+.manual_add_table td, .manual_add_table td td, .manual_update_table td, .manual_update_table td td, .manual_update_table{
+	border-bottom:none;
+}
+.manual_add_table td td td, .manual_update_table td td{
+	padding-left:0px; padding-right:0px;
+}
+.left_side {
+	border-right:solid #ddd 1px;
+}

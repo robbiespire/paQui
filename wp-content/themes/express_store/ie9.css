@@ -1,0 +1,10 @@
+/* IE 9 FIX */
+
+#wrapper {
+	border:1px solid #dfdfdf !important;
+	border-top: none !important;
+}
+
+#singular-product {
+	margin-left: 99px !important;
+}
